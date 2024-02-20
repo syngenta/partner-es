@@ -1,0 +1,2639 @@
+﻿probability_effect,probability_exceedance,type,time
+0.0001,99.999,Risk curve,0 days
+0.001,99.999,Risk curve,0 days
+0.01,99.99,Risk curve,0 days
+0.1,98.7,Risk curve,0 days
+0.2,96.3,Risk curve,0 days
+0.3,93.6,Risk curve,0 days
+0.4,90.1,Risk curve,0 days
+0.5,86.2,Risk curve,0 days
+0.6,82.6,Risk curve,0 days
+0.7,79.2,Risk curve,0 days
+0.8,75.6,Risk curve,0 days
+0.9,72.3,Risk curve,0 days
+1,68.9,Risk curve,0 days
+1.1,65.7,Risk curve,0 days
+1.2,62.9,Risk curve,0 days
+1.3,59.9,Risk curve,0 days
+1.4,57.3,Risk curve,0 days
+1.5,55,Risk curve,0 days
+1.6,52.5,Risk curve,0 days
+1.7,50.6,Risk curve,0 days
+1.8,48.4,Risk curve,0 days
+1.9,46.5,Risk curve,0 days
+2,44.6,Risk curve,0 days
+2.1,42.7,Risk curve,0 days
+2.2,41.1,Risk curve,0 days
+2.3,39.2,Risk curve,0 days
+2.4,37.7,Risk curve,0 days
+2.5,36.2,Risk curve,0 days
+2.6,34.8,Risk curve,0 days
+2.7,33.4,Risk curve,0 days
+2.8,31.8,Risk curve,0 days
+2.9,30.4,Risk curve,0 days
+3,29.3,Risk curve,0 days
+3.1,28.2,Risk curve,0 days
+3.2,27.2,Risk curve,0 days
+3.3,26.1,Risk curve,0 days
+3.4,25.1,Risk curve,0 days
+3.5,24.1,Risk curve,0 days
+3.6,23.2,Risk curve,0 days
+3.7,22.2,Risk curve,0 days
+3.8,21.4,Risk curve,0 days
+3.9,20.5,Risk curve,0 days
+4,19.6,Risk curve,0 days
+4.1,18.9,Risk curve,0 days
+4.2,18.2,Risk curve,0 days
+4.3,17.4,Risk curve,0 days
+4.4,16.7,Risk curve,0 days
+4.5,16.1,Risk curve,0 days
+4.6,15.7,Risk curve,0 days
+4.7,15,Risk curve,0 days
+4.8,14.4,Risk curve,0 days
+4.9,14,Risk curve,0 days
+5,13.5,Risk curve,0 days
+5.1,13,Risk curve,0 days
+5.2,12.5,Risk curve,0 days
+5.3,12.2,Risk curve,0 days
+5.4,11.9,Risk curve,0 days
+5.5,11.4,Risk curve,0 days
+5.6,10.9,Risk curve,0 days
+5.7,10.5,Risk curve,0 days
+5.8,10,Risk curve,0 days
+5.9,9.7,Risk curve,0 days
+6,9.4,Risk curve,0 days
+6.1,9.1,Risk curve,0 days
+6.2,8.7,Risk curve,0 days
+6.3,8.4,Risk curve,0 days
+6.4,8.1,Risk curve,0 days
+6.5,7.8,Risk curve,0 days
+6.6,7.6,Risk curve,0 days
+6.7,7.4,Risk curve,0 days
+6.8,7.2,Risk curve,0 days
+6.9,6.9,Risk curve,0 days
+7,6.7,Risk curve,0 days
+7.1,6.4,Risk curve,0 days
+7.2,6.2,Risk curve,0 days
+7.3,5.9,Risk curve,0 days
+7.4,5.8,Risk curve,0 days
+7.5,5.6,Risk curve,0 days
+7.6,5.5,Risk curve,0 days
+7.7,5.4,Risk curve,0 days
+7.8,5.2,Risk curve,0 days
+7.9,5.1,Risk curve,0 days
+8,4.9,Risk curve,0 days
+8.1,4.7,Risk curve,0 days
+8.2,4.6,Risk curve,0 days
+8.3,4.5,Risk curve,0 days
+8.4,4.4,Risk curve,0 days
+8.5,4.2,Risk curve,0 days
+8.6,4.1,Risk curve,0 days
+8.7,3.9,Risk curve,0 days
+8.8,3.8,Risk curve,0 days
+8.9,3.7,Risk curve,0 days
+9,3.5,Risk curve,0 days
+9.1,3.5,Risk curve,0 days
+9.2,3.4,Risk curve,0 days
+9.3,3.3,Risk curve,0 days
+9.4,3.2,Risk curve,0 days
+9.5,3,Risk curve,0 days
+9.6,3,Risk curve,0 days
+9.7,2.9,Risk curve,0 days
+9.8,2.8,Risk curve,0 days
+9.9,2.7,Risk curve,0 days
+10,2.6,Risk curve,0 days
+10.1,2.6,Risk curve,0 days
+10.2,2.5,Risk curve,0 days
+10.3,2.4,Risk curve,0 days
+10.4,2.4,Risk curve,0 days
+10.5,2.3,Risk curve,0 days
+10.6,2.2,Risk curve,0 days
+10.7,2.2,Risk curve,0 days
+10.8,2.1,Risk curve,0 days
+10.9,2,Risk curve,0 days
+11,2,Risk curve,0 days
+11.1,1.9,Risk curve,0 days
+11.2,1.9,Risk curve,0 days
+11.3,1.8,Risk curve,0 days
+11.4,1.7,Risk curve,0 days
+11.5,1.7,Risk curve,0 days
+11.6,1.7,Risk curve,0 days
+11.7,1.6,Risk curve,0 days
+11.8,1.6,Risk curve,0 days
+11.9,1.6,Risk curve,0 days
+12,1.5,Risk curve,0 days
+12.1,1.5,Risk curve,0 days
+12.2,1.4,Risk curve,0 days
+12.3,1.4,Risk curve,0 days
+12.4,1.3,Risk curve,0 days
+12.5,1.3,Risk curve,0 days
+12.6,1.2,Risk curve,0 days
+12.7,1.2,Risk curve,0 days
+12.8,1.2,Risk curve,0 days
+12.9,1.2,Risk curve,0 days
+13,1.1,Risk curve,0 days
+13.1,1.1,Risk curve,0 days
+13.2,1.1,Risk curve,0 days
+13.3,1,Risk curve,0 days
+13.4,1,Risk curve,0 days
+13.5,1,Risk curve,0 days
+13.6,0.9,Risk curve,0 days
+13.7,0.9,Risk curve,0 days
+13.8,0.9,Risk curve,0 days
+13.9,0.9,Risk curve,0 days
+14,0.8,Risk curve,0 days
+14.1,0.8,Risk curve,0 days
+14.2,0.8,Risk curve,0 days
+14.3,0.7,Risk curve,0 days
+14.4,0.7,Risk curve,0 days
+14.5,0.7,Risk curve,0 days
+14.6,0.7,Risk curve,0 days
+14.7,0.7,Risk curve,0 days
+14.8,0.7,Risk curve,0 days
+14.9,0.6,Risk curve,0 days
+15,0.6,Risk curve,0 days
+15.1,0.6,Risk curve,0 days
+15.2,0.6,Risk curve,0 days
+15.3,0.6,Risk curve,0 days
+15.4,0.6,Risk curve,0 days
+15.5,0.6,Risk curve,0 days
+15.6,0.6,Risk curve,0 days
+15.7,0.6,Risk curve,0 days
+15.8,0.6,Risk curve,0 days
+15.9,0.5,Risk curve,0 days
+16,0.5,Risk curve,0 days
+16.1,0.5,Risk curve,0 days
+16.2,0.5,Risk curve,0 days
+16.3,0.5,Risk curve,0 days
+16.4,0.5,Risk curve,0 days
+16.5,0.4,Risk curve,0 days
+16.6,0.4,Risk curve,0 days
+16.7,0.4,Risk curve,0 days
+16.8,0.4,Risk curve,0 days
+16.9,0.4,Risk curve,0 days
+17,0.4,Risk curve,0 days
+17.1,0.4,Risk curve,0 days
+17.2,0.3,Risk curve,0 days
+17.3,0.3,Risk curve,0 days
+17.4,0.3,Risk curve,0 days
+17.5,0.3,Risk curve,0 days
+17.6,0.3,Risk curve,0 days
+17.7,0.3,Risk curve,0 days
+17.8,0.3,Risk curve,0 days
+17.9,0.3,Risk curve,0 days
+18,0.3,Risk curve,0 days
+18.1,0.3,Risk curve,0 days
+18.2,0.3,Risk curve,0 days
+18.3,0.2,Risk curve,0 days
+18.4,0.2,Risk curve,0 days
+18.5,0.2,Risk curve,0 days
+18.6,0.2,Risk curve,0 days
+18.7,0.2,Risk curve,0 days
+18.8,0.2,Risk curve,0 days
+18.9,0.2,Risk curve,0 days
+19,0.2,Risk curve,0 days
+19.1,0.2,Risk curve,0 days
+19.2,0.2,Risk curve,0 days
+19.3,0.2,Risk curve,0 days
+19.4,0.2,Risk curve,0 days
+19.5,0.2,Risk curve,0 days
+19.6,0.2,Risk curve,0 days
+19.7,0.2,Risk curve,0 days
+19.8,0.2,Risk curve,0 days
+19.9,0.2,Risk curve,0 days
+20,0.2,Risk curve,0 days
+20.1,0.1,Risk curve,0 days
+20.2,0.1,Risk curve,0 days
+20.3,0.1,Risk curve,0 days
+20.4,0.1,Risk curve,0 days
+20.5,0.1,Risk curve,0 days
+20.6,0.1,Risk curve,0 days
+20.7,0.1,Risk curve,0 days
+20.8,0.1,Risk curve,0 days
+20.9,0.1,Risk curve,0 days
+21,0.1,Risk curve,0 days
+21.1,0.1,Risk curve,0 days
+21.2,0.1,Risk curve,0 days
+21.3,0.1,Risk curve,0 days
+21.4,0.1,Risk curve,0 days
+21.5,0.1,Risk curve,0 days
+21.6,0.1,Risk curve,0 days
+21.7,0.1,Risk curve,0 days
+21.8,0.1,Risk curve,0 days
+21.9,0.1,Risk curve,0 days
+22,0.1,Risk curve,0 days
+22.1,0.1,Risk curve,0 days
+22.2,0.1,Risk curve,0 days
+22.3,0.1,Risk curve,0 days
+22.4,0.1,Risk curve,0 days
+22.5,0.1,Risk curve,0 days
+22.6,0.1,Risk curve,0 days
+22.7,0.1,Risk curve,0 days
+22.8,0.1,Risk curve,0 days
+22.9,0.1,Risk curve,0 days
+23,0.1,Risk curve,0 days
+23.1,0.1,Risk curve,0 days
+23.2,0.1,Risk curve,0 days
+23.3,0.1,Risk curve,0 days
+23.4,0.1,Risk curve,0 days
+23.5,0.1,Risk curve,0 days
+23.6,0.1,Risk curve,0 days
+23.7,0.1,Risk curve,0 days
+23.8,0.1,Risk curve,0 days
+23.9,0.1,Risk curve,0 days
+24,0.1,Risk curve,0 days
+24.1,0.1,Risk curve,0 days
+24.2,0.1,Risk curve,0 days
+24.3,0,Risk curve,0 days
+24.4,0,Risk curve,0 days
+24.5,0,Risk curve,0 days
+24.6,0,Risk curve,0 days
+24.7,0,Risk curve,0 days
+24.8,0,Risk curve,0 days
+24.9,0,Risk curve,0 days
+25,0,Risk curve,0 days
+25.1,0,Risk curve,0 days
+25.2,0,Risk curve,0 days
+25.3,0,Risk curve,0 days
+25.4,0,Risk curve,0 days
+25.5,0,Risk curve,0 days
+25.6,0,Risk curve,0 days
+25.7,0,Risk curve,0 days
+25.8,0,Risk curve,0 days
+25.9,0,Risk curve,0 days
+26,0,Risk curve,0 days
+26.1,0,Risk curve,0 days
+26.2,0,Risk curve,0 days
+26.3,0,Risk curve,0 days
+26.4,0,Risk curve,0 days
+26.5,0,Risk curve,0 days
+26.6,0,Risk curve,0 days
+26.7,0,Risk curve,0 days
+26.8,0,Risk curve,0 days
+26.9,0,Risk curve,0 days
+27,0,Risk curve,0 days
+27.1,0,Risk curve,0 days
+27.2,0,Risk curve,0 days
+27.3,0,Risk curve,0 days
+27.4,0,Risk curve,0 days
+27.5,0,Risk curve,0 days
+27.6,0,Risk curve,0 days
+27.7,0,Risk curve,0 days
+27.8,0,Risk curve,0 days
+27.9,0,Risk curve,0 days
+28,0,Risk curve,0 days
+28.1,0,Risk curve,0 days
+28.2,0,Risk curve,0 days
+28.3,0,Risk curve,0 days
+28.4,0,Risk curve,0 days
+28.5,0,Risk curve,0 days
+28.6,0,Risk curve,0 days
+28.7,0,Risk curve,0 days
+28.8,0,Risk curve,0 days
+28.9,0,Risk curve,0 days
+29,0,Risk curve,0 days
+29.1,0,Risk curve,0 days
+29.2,0,Risk curve,0 days
+29.3,0,Risk curve,0 days
+29.4,0,Risk curve,0 days
+29.5,0,Risk curve,0 days
+29.6,0,Risk curve,0 days
+29.7,0,Risk curve,0 days
+29.8,0,Risk curve,0 days
+29.9,0,Risk curve,0 days
+30,0,Risk curve,0 days
+30.1,0,Risk curve,0 days
+30.2,0,Risk curve,0 days
+30.3,0,Risk curve,0 days
+30.4,0,Risk curve,0 days
+30.5,0,Risk curve,0 days
+30.6,0,Risk curve,0 days
+30.7,0,Risk curve,0 days
+30.8,0,Risk curve,0 days
+30.9,0,Risk curve,0 days
+31,0,Risk curve,0 days
+31.1,0,Risk curve,0 days
+31.2,0,Risk curve,0 days
+31.3,0,Risk curve,0 days
+31.4,0,Risk curve,0 days
+31.5,0,Risk curve,0 days
+31.6,0,Risk curve,0 days
+31.7,0,Risk curve,0 days
+31.8,0,Risk curve,0 days
+31.9,0,Risk curve,0 days
+32,0,Risk curve,0 days
+32.1,0,Risk curve,0 days
+32.2,0,Risk curve,0 days
+32.3,0,Risk curve,0 days
+32.4,0,Risk curve,0 days
+32.5,0,Risk curve,0 days
+32.6,0,Risk curve,0 days
+32.7,0,Risk curve,0 days
+32.8,0,Risk curve,0 days
+32.9,0,Risk curve,0 days
+33,0,Risk curve,0 days
+33.1,0,Risk curve,0 days
+33.2,0,Risk curve,0 days
+33.3,0,Risk curve,0 days
+33.4,0,Risk curve,0 days
+33.5,0,Risk curve,0 days
+33.6,0,Risk curve,0 days
+33.7,0,Risk curve,0 days
+33.8,0,Risk curve,0 days
+33.9,0,Risk curve,0 days
+34,0,Risk curve,0 days
+34.1,0,Risk curve,0 days
+34.2,0,Risk curve,0 days
+34.3,0,Risk curve,0 days
+34.4,0,Risk curve,0 days
+34.5,0,Risk curve,0 days
+34.6,0,Risk curve,0 days
+34.7,0,Risk curve,0 days
+34.8,0,Risk curve,0 days
+34.9,0,Risk curve,0 days
+35,0,Risk curve,0 days
+35.1,0,Risk curve,0 days
+35.2,0,Risk curve,0 days
+35.3,0,Risk curve,0 days
+35.4,0,Risk curve,0 days
+35.5,0,Risk curve,0 days
+35.6,0,Risk curve,0 days
+35.7,0,Risk curve,0 days
+35.8,0,Risk curve,0 days
+35.9,0,Risk curve,0 days
+36,0,Risk curve,0 days
+36.1,0,Risk curve,0 days
+36.2,0,Risk curve,0 days
+36.3,0,Risk curve,0 days
+36.4,0,Risk curve,0 days
+36.5,0,Risk curve,0 days
+36.6,0,Risk curve,0 days
+36.7,0,Risk curve,0 days
+36.8,0,Risk curve,0 days
+36.9,0,Risk curve,0 days
+37,0,Risk curve,0 days
+37.1,0,Risk curve,0 days
+37.2,0,Risk curve,0 days
+37.3,0,Risk curve,0 days
+37.4,0,Risk curve,0 days
+37.5,0,Risk curve,0 days
+37.6,0,Risk curve,0 days
+37.7,0,Risk curve,0 days
+37.8,0,Risk curve,0 days
+37.9,0,Risk curve,0 days
+38,0,Risk curve,0 days
+38.1,0,Risk curve,0 days
+38.2,0,Risk curve,0 days
+38.3,0,Risk curve,0 days
+38.4,0,Risk curve,0 days
+38.5,0,Risk curve,0 days
+38.6,0,Risk curve,0 days
+38.7,0,Risk curve,0 days
+38.8,0,Risk curve,0 days
+38.9,0,Risk curve,0 days
+39,0,Risk curve,0 days
+39.1,0,Risk curve,0 days
+39.2,0,Risk curve,0 days
+39.3,0,Risk curve,0 days
+39.4,0,Risk curve,0 days
+39.5,0,Risk curve,0 days
+39.6,0,Risk curve,0 days
+39.7,0,Risk curve,0 days
+39.8,0,Risk curve,0 days
+39.9,0,Risk curve,0 days
+40,0,Risk curve,0 days
+40.1,0,Risk curve,0 days
+40.2,0,Risk curve,0 days
+40.3,0,Risk curve,0 days
+40.4,0,Risk curve,0 days
+40.5,0,Risk curve,0 days
+40.6,0,Risk curve,0 days
+40.7,0,Risk curve,0 days
+40.8,0,Risk curve,0 days
+40.9,0,Risk curve,0 days
+41,0,Risk curve,0 days
+41.1,0,Risk curve,0 days
+41.2,0,Risk curve,0 days
+41.3,0,Risk curve,0 days
+41.4,0,Risk curve,0 days
+41.5,0,Risk curve,0 days
+41.6,0,Risk curve,0 days
+41.7,0,Risk curve,0 days
+41.8,0,Risk curve,0 days
+41.9,0,Risk curve,0 days
+42,0,Risk curve,0 days
+42.1,0,Risk curve,0 days
+42.2,0,Risk curve,0 days
+42.3,0,Risk curve,0 days
+42.4,0,Risk curve,0 days
+42.5,0,Risk curve,0 days
+42.6,0,Risk curve,0 days
+42.7,0,Risk curve,0 days
+42.8,0,Risk curve,0 days
+42.9,0,Risk curve,0 days
+43,0,Risk curve,0 days
+43.1,0,Risk curve,0 days
+43.2,0,Risk curve,0 days
+43.3,0,Risk curve,0 days
+43.4,0,Risk curve,0 days
+43.5,0,Risk curve,0 days
+43.6,0,Risk curve,0 days
+43.7,0,Risk curve,0 days
+43.8,0,Risk curve,0 days
+43.9,0,Risk curve,0 days
+44,0,Risk curve,0 days
+44.1,0,Risk curve,0 days
+44.2,0,Risk curve,0 days
+44.3,0,Risk curve,0 days
+44.4,0,Risk curve,0 days
+44.5,0,Risk curve,0 days
+44.6,0,Risk curve,0 days
+44.7,0,Risk curve,0 days
+44.8,0,Risk curve,0 days
+44.9,0,Risk curve,0 days
+45,0,Risk curve,0 days
+45.1,0,Risk curve,0 days
+45.2,0,Risk curve,0 days
+45.3,0,Risk curve,0 days
+45.4,0,Risk curve,0 days
+45.5,0,Risk curve,0 days
+45.6,0,Risk curve,0 days
+45.7,0,Risk curve,0 days
+45.8,0,Risk curve,0 days
+45.9,0,Risk curve,0 days
+46,0,Risk curve,0 days
+46.1,0,Risk curve,0 days
+46.2,0,Risk curve,0 days
+46.3,0,Risk curve,0 days
+46.4,0,Risk curve,0 days
+46.5,0,Risk curve,0 days
+46.6,0,Risk curve,0 days
+46.7,0,Risk curve,0 days
+46.8,0,Risk curve,0 days
+46.9,0,Risk curve,0 days
+47,0,Risk curve,0 days
+47.1,0,Risk curve,0 days
+47.2,0,Risk curve,0 days
+47.3,0,Risk curve,0 days
+47.4,0,Risk curve,0 days
+47.5,0,Risk curve,0 days
+47.6,0,Risk curve,0 days
+47.7,0,Risk curve,0 days
+47.8,0,Risk curve,0 days
+47.9,0,Risk curve,0 days
+48,0,Risk curve,0 days
+48.1,0,Risk curve,0 days
+48.2,0,Risk curve,0 days
+48.3,0,Risk curve,0 days
+48.4,0,Risk curve,0 days
+48.5,0,Risk curve,0 days
+48.6,0,Risk curve,0 days
+48.7,0,Risk curve,0 days
+48.8,0,Risk curve,0 days
+48.9,0,Risk curve,0 days
+49,0,Risk curve,0 days
+49.1,0,Risk curve,0 days
+49.2,0,Risk curve,0 days
+49.3,0,Risk curve,0 days
+49.4,0,Risk curve,0 days
+49.5,0,Risk curve,0 days
+49.6,0,Risk curve,0 days
+49.7,0,Risk curve,0 days
+49.8,0,Risk curve,0 days
+49.9,0,Risk curve,0 days
+50,0,Risk curve,0 days
+50.1,0,Risk curve,0 days
+50.2,0,Risk curve,0 days
+50.3,0,Risk curve,0 days
+50.4,0,Risk curve,0 days
+50.5,0,Risk curve,0 days
+50.6,0,Risk curve,0 days
+50.7,0,Risk curve,0 days
+50.8,0,Risk curve,0 days
+50.9,0,Risk curve,0 days
+51,0,Risk curve,0 days
+51.1,0,Risk curve,0 days
+51.2,0,Risk curve,0 days
+51.3,0,Risk curve,0 days
+51.4,0,Risk curve,0 days
+51.5,0,Risk curve,0 days
+51.6,0,Risk curve,0 days
+51.7,0,Risk curve,0 days
+51.8,0,Risk curve,0 days
+51.9,0,Risk curve,0 days
+52,0,Risk curve,0 days
+52.1,0,Risk curve,0 days
+52.2,0,Risk curve,0 days
+52.3,0,Risk curve,0 days
+52.4,0,Risk curve,0 days
+52.5,0,Risk curve,0 days
+52.6,0,Risk curve,0 days
+52.7,0,Risk curve,0 days
+52.8,0,Risk curve,0 days
+52.9,0,Risk curve,0 days
+53,0,Risk curve,0 days
+53.1,0,Risk curve,0 days
+53.2,0,Risk curve,0 days
+53.3,0,Risk curve,0 days
+53.4,0,Risk curve,0 days
+53.5,0,Risk curve,0 days
+53.6,0,Risk curve,0 days
+53.7,0,Risk curve,0 days
+53.8,0,Risk curve,0 days
+53.9,0,Risk curve,0 days
+54,0,Risk curve,0 days
+54.1,0,Risk curve,0 days
+54.2,0,Risk curve,0 days
+54.3,0,Risk curve,0 days
+54.4,0,Risk curve,0 days
+54.5,0,Risk curve,0 days
+54.6,0,Risk curve,0 days
+54.7,0,Risk curve,0 days
+54.8,0,Risk curve,0 days
+54.9,0,Risk curve,0 days
+55,0,Risk curve,0 days
+55.1,0,Risk curve,0 days
+55.2,0,Risk curve,0 days
+55.3,0,Risk curve,0 days
+55.4,0,Risk curve,0 days
+55.5,0,Risk curve,0 days
+55.6,0,Risk curve,0 days
+55.7,0,Risk curve,0 days
+55.8,0,Risk curve,0 days
+55.9,0,Risk curve,0 days
+56,0,Risk curve,0 days
+56.1,0,Risk curve,0 days
+56.2,0,Risk curve,0 days
+56.3,0,Risk curve,0 days
+56.4,0,Risk curve,0 days
+56.5,0,Risk curve,0 days
+56.6,0,Risk curve,0 days
+56.7,0,Risk curve,0 days
+56.8,0,Risk curve,0 days
+56.9,0,Risk curve,0 days
+57,0,Risk curve,0 days
+57.1,0,Risk curve,0 days
+57.2,0,Risk curve,0 days
+57.3,0,Risk curve,0 days
+57.4,0,Risk curve,0 days
+57.5,0,Risk curve,0 days
+57.6,0,Risk curve,0 days
+57.7,0,Risk curve,0 days
+57.8,0,Risk curve,0 days
+57.9,0,Risk curve,0 days
+58,0,Risk curve,0 days
+58.1,0,Risk curve,0 days
+58.2,0,Risk curve,0 days
+58.3,0,Risk curve,0 days
+58.4,0,Risk curve,0 days
+58.5,0,Risk curve,0 days
+58.6,0,Risk curve,0 days
+58.7,0,Risk curve,0 days
+58.8,0,Risk curve,0 days
+58.9,0,Risk curve,0 days
+59,0,Risk curve,0 days
+59.1,0,Risk curve,0 days
+59.2,0,Risk curve,0 days
+59.3,0,Risk curve,0 days
+59.4,0,Risk curve,0 days
+59.5,0,Risk curve,0 days
+59.6,0,Risk curve,0 days
+59.7,0,Risk curve,0 days
+59.8,0,Risk curve,0 days
+59.9,0,Risk curve,0 days
+60,0,Risk curve,0 days
+60.1,0,Risk curve,0 days
+60.2,0,Risk curve,0 days
+60.3,0,Risk curve,0 days
+60.4,0,Risk curve,0 days
+60.5,0,Risk curve,0 days
+60.6,0,Risk curve,0 days
+60.7,0,Risk curve,0 days
+60.8,0,Risk curve,0 days
+60.9,0,Risk curve,0 days
+61,0,Risk curve,0 days
+61.1,0,Risk curve,0 days
+61.2,0,Risk curve,0 days
+61.3,0,Risk curve,0 days
+61.4,0,Risk curve,0 days
+61.5,0,Risk curve,0 days
+61.6,0,Risk curve,0 days
+61.7,0,Risk curve,0 days
+61.8,0,Risk curve,0 days
+61.9,0,Risk curve,0 days
+62,0,Risk curve,0 days
+62.1,0,Risk curve,0 days
+62.2,0,Risk curve,0 days
+62.3,0,Risk curve,0 days
+62.4,0,Risk curve,0 days
+62.5,0,Risk curve,0 days
+62.6,0,Risk curve,0 days
+62.7,0,Risk curve,0 days
+62.8,0,Risk curve,0 days
+62.9,0,Risk curve,0 days
+63,0,Risk curve,0 days
+63.1,0,Risk curve,0 days
+63.2,0,Risk curve,0 days
+63.3,0,Risk curve,0 days
+63.4,0,Risk curve,0 days
+63.5,0,Risk curve,0 days
+63.6,0,Risk curve,0 days
+63.7,0,Risk curve,0 days
+63.8,0,Risk curve,0 days
+63.9,0,Risk curve,0 days
+64,0,Risk curve,0 days
+64.1,0,Risk curve,0 days
+64.2,0,Risk curve,0 days
+64.3,0,Risk curve,0 days
+64.4,0,Risk curve,0 days
+64.5,0,Risk curve,0 days
+64.6,0,Risk curve,0 days
+64.7,0,Risk curve,0 days
+64.8,0,Risk curve,0 days
+64.9,0,Risk curve,0 days
+65,0,Risk curve,0 days
+65.1,0,Risk curve,0 days
+65.2,0,Risk curve,0 days
+65.3,0,Risk curve,0 days
+65.4,0,Risk curve,0 days
+65.5,0,Risk curve,0 days
+65.6,0,Risk curve,0 days
+65.7,0,Risk curve,0 days
+65.8,0,Risk curve,0 days
+65.9,0,Risk curve,0 days
+66,0,Risk curve,0 days
+66.1,0,Risk curve,0 days
+66.2,0,Risk curve,0 days
+66.3,0,Risk curve,0 days
+66.4,0,Risk curve,0 days
+66.5,0,Risk curve,0 days
+66.6,0,Risk curve,0 days
+66.7,0,Risk curve,0 days
+66.8,0,Risk curve,0 days
+66.9,0,Risk curve,0 days
+67,0,Risk curve,0 days
+67.1,0,Risk curve,0 days
+67.2,0,Risk curve,0 days
+67.3,0,Risk curve,0 days
+67.4,0,Risk curve,0 days
+67.5,0,Risk curve,0 days
+67.6,0,Risk curve,0 days
+67.7,0,Risk curve,0 days
+67.8,0,Risk curve,0 days
+67.9,0,Risk curve,0 days
+68,0,Risk curve,0 days
+68.1,0,Risk curve,0 days
+68.2,0,Risk curve,0 days
+68.3,0,Risk curve,0 days
+68.4,0,Risk curve,0 days
+68.5,0,Risk curve,0 days
+68.6,0,Risk curve,0 days
+68.7,0,Risk curve,0 days
+68.8,0,Risk curve,0 days
+68.9,0,Risk curve,0 days
+69,0,Risk curve,0 days
+69.1,0,Risk curve,0 days
+69.2,0,Risk curve,0 days
+69.3,0,Risk curve,0 days
+69.4,0,Risk curve,0 days
+69.5,0,Risk curve,0 days
+69.6,0,Risk curve,0 days
+69.7,0,Risk curve,0 days
+69.8,0,Risk curve,0 days
+69.9,0,Risk curve,0 days
+70,0,Risk curve,0 days
+70.1,0,Risk curve,0 days
+70.2,0,Risk curve,0 days
+70.3,0,Risk curve,0 days
+70.4,0,Risk curve,0 days
+70.5,0,Risk curve,0 days
+70.6,0,Risk curve,0 days
+70.7,0,Risk curve,0 days
+70.8,0,Risk curve,0 days
+70.9,0,Risk curve,0 days
+71,0,Risk curve,0 days
+71.1,0,Risk curve,0 days
+71.2,0,Risk curve,0 days
+71.3,0,Risk curve,0 days
+71.4,0,Risk curve,0 days
+71.5,0,Risk curve,0 days
+71.6,0,Risk curve,0 days
+71.7,0,Risk curve,0 days
+71.8,0,Risk curve,0 days
+71.9,0,Risk curve,0 days
+72,0,Risk curve,0 days
+72.1,0,Risk curve,0 days
+72.2,0,Risk curve,0 days
+72.3,0,Risk curve,0 days
+72.4,0,Risk curve,0 days
+72.5,0,Risk curve,0 days
+72.6,0,Risk curve,0 days
+72.7,0,Risk curve,0 days
+72.8,0,Risk curve,0 days
+72.9,0,Risk curve,0 days
+73,0,Risk curve,0 days
+73.1,0,Risk curve,0 days
+73.2,0,Risk curve,0 days
+73.3,0,Risk curve,0 days
+73.4,0,Risk curve,0 days
+73.5,0,Risk curve,0 days
+73.6,0,Risk curve,0 days
+73.7,0,Risk curve,0 days
+73.8,0,Risk curve,0 days
+73.9,0,Risk curve,0 days
+74,0,Risk curve,0 days
+74.1,0,Risk curve,0 days
+74.2,0,Risk curve,0 days
+74.3,0,Risk curve,0 days
+74.4,0,Risk curve,0 days
+74.5,0,Risk curve,0 days
+74.6,0,Risk curve,0 days
+74.7,0,Risk curve,0 days
+74.8,0,Risk curve,0 days
+74.9,0,Risk curve,0 days
+75,0,Risk curve,0 days
+75.1,0,Risk curve,0 days
+75.2,0,Risk curve,0 days
+75.3,0,Risk curve,0 days
+75.4,0,Risk curve,0 days
+75.5,0,Risk curve,0 days
+75.6,0,Risk curve,0 days
+75.7,0,Risk curve,0 days
+75.8,0,Risk curve,0 days
+75.9,0,Risk curve,0 days
+76,0,Risk curve,0 days
+76.1,0,Risk curve,0 days
+76.2,0,Risk curve,0 days
+76.3,0,Risk curve,0 days
+76.4,0,Risk curve,0 days
+76.5,0,Risk curve,0 days
+76.6,0,Risk curve,0 days
+76.7,0,Risk curve,0 days
+76.8,0,Risk curve,0 days
+76.9,0,Risk curve,0 days
+77,0,Risk curve,0 days
+77.1,0,Risk curve,0 days
+77.2,0,Risk curve,0 days
+77.3,0,Risk curve,0 days
+77.4,0,Risk curve,0 days
+77.5,0,Risk curve,0 days
+77.6,0,Risk curve,0 days
+77.7,0,Risk curve,0 days
+77.8,0,Risk curve,0 days
+77.9,0,Risk curve,0 days
+78,0,Risk curve,0 days
+78.1,0,Risk curve,0 days
+78.2,0,Risk curve,0 days
+78.3,0,Risk curve,0 days
+78.4,0,Risk curve,0 days
+78.5,0,Risk curve,0 days
+78.6,0,Risk curve,0 days
+78.7,0,Risk curve,0 days
+78.8,0,Risk curve,0 days
+78.9,0,Risk curve,0 days
+79,0,Risk curve,0 days
+79.1,0,Risk curve,0 days
+79.2,0,Risk curve,0 days
+79.3,0,Risk curve,0 days
+79.4,0,Risk curve,0 days
+79.5,0,Risk curve,0 days
+79.6,0,Risk curve,0 days
+79.7,0,Risk curve,0 days
+79.8,0,Risk curve,0 days
+79.9,0,Risk curve,0 days
+80,0,Risk curve,0 days
+80.1,0,Risk curve,0 days
+80.2,0,Risk curve,0 days
+80.3,0,Risk curve,0 days
+80.4,0,Risk curve,0 days
+80.5,0,Risk curve,0 days
+80.6,0,Risk curve,0 days
+80.7,0,Risk curve,0 days
+80.8,0,Risk curve,0 days
+80.9,0,Risk curve,0 days
+81,0,Risk curve,0 days
+81.1,0,Risk curve,0 days
+81.2,0,Risk curve,0 days
+81.3,0,Risk curve,0 days
+81.4,0,Risk curve,0 days
+81.5,0,Risk curve,0 days
+81.6,0,Risk curve,0 days
+81.7,0,Risk curve,0 days
+81.8,0,Risk curve,0 days
+81.9,0,Risk curve,0 days
+82,0,Risk curve,0 days
+82.1,0,Risk curve,0 days
+82.2,0,Risk curve,0 days
+82.3,0,Risk curve,0 days
+82.4,0,Risk curve,0 days
+82.5,0,Risk curve,0 days
+82.6,0,Risk curve,0 days
+82.7,0,Risk curve,0 days
+82.8,0,Risk curve,0 days
+82.9,0,Risk curve,0 days
+83,0,Risk curve,0 days
+83.1,0,Risk curve,0 days
+83.2,0,Risk curve,0 days
+83.3,0,Risk curve,0 days
+83.4,0,Risk curve,0 days
+83.5,0,Risk curve,0 days
+83.6,0,Risk curve,0 days
+83.7,0,Risk curve,0 days
+83.8,0,Risk curve,0 days
+83.9,0,Risk curve,0 days
+84,0,Risk curve,0 days
+84.1,0,Risk curve,0 days
+84.2,0,Risk curve,0 days
+84.3,0,Risk curve,0 days
+84.4,0,Risk curve,0 days
+84.5,0,Risk curve,0 days
+84.6,0,Risk curve,0 days
+84.7,0,Risk curve,0 days
+84.8,0,Risk curve,0 days
+84.9,0,Risk curve,0 days
+85,0,Risk curve,0 days
+85.1,0,Risk curve,0 days
+85.2,0,Risk curve,0 days
+85.3,0,Risk curve,0 days
+85.4,0,Risk curve,0 days
+85.5,0,Risk curve,0 days
+85.6,0,Risk curve,0 days
+85.7,0,Risk curve,0 days
+85.8,0,Risk curve,0 days
+85.9,0,Risk curve,0 days
+86,0,Risk curve,0 days
+86.1,0,Risk curve,0 days
+86.2,0,Risk curve,0 days
+86.3,0,Risk curve,0 days
+86.4,0,Risk curve,0 days
+86.5,0,Risk curve,0 days
+86.6,0,Risk curve,0 days
+86.7,0,Risk curve,0 days
+86.8,0,Risk curve,0 days
+86.9,0,Risk curve,0 days
+87,0,Risk curve,0 days
+87.1,0,Risk curve,0 days
+87.2,0,Risk curve,0 days
+87.3,0,Risk curve,0 days
+87.4,0,Risk curve,0 days
+87.5,0,Risk curve,0 days
+87.6,0,Risk curve,0 days
+87.7,0,Risk curve,0 days
+87.8,0,Risk curve,0 days
+87.9,0,Risk curve,0 days
+88,0,Risk curve,0 days
+88.1,0,Risk curve,0 days
+88.2,0,Risk curve,0 days
+88.3,0,Risk curve,0 days
+88.4,0,Risk curve,0 days
+88.5,0,Risk curve,0 days
+88.6,0,Risk curve,0 days
+88.7,0,Risk curve,0 days
+88.8,0,Risk curve,0 days
+88.9,0,Risk curve,0 days
+89,0,Risk curve,0 days
+89.1,0,Risk curve,0 days
+89.2,0,Risk curve,0 days
+89.3,0,Risk curve,0 days
+89.4,0,Risk curve,0 days
+89.5,0,Risk curve,0 days
+89.6,0,Risk curve,0 days
+89.7,0,Risk curve,0 days
+89.8,0,Risk curve,0 days
+89.9,0,Risk curve,0 days
+90,0,Risk curve,0 days
+90.1,0,Risk curve,0 days
+90.2,0,Risk curve,0 days
+90.3,0,Risk curve,0 days
+90.4,0,Risk curve,0 days
+90.5,0,Risk curve,0 days
+90.6,0,Risk curve,0 days
+90.7,0,Risk curve,0 days
+90.8,0,Risk curve,0 days
+90.9,0,Risk curve,0 days
+91,0,Risk curve,0 days
+91.1,0,Risk curve,0 days
+91.2,0,Risk curve,0 days
+91.3,0,Risk curve,0 days
+91.4,0,Risk curve,0 days
+91.5,0,Risk curve,0 days
+91.6,0,Risk curve,0 days
+91.7,0,Risk curve,0 days
+91.8,0,Risk curve,0 days
+91.9,0,Risk curve,0 days
+92,0,Risk curve,0 days
+92.1,0,Risk curve,0 days
+92.2,0,Risk curve,0 days
+92.3,0,Risk curve,0 days
+92.4,0,Risk curve,0 days
+92.5,0,Risk curve,0 days
+92.6,0,Risk curve,0 days
+92.7,0,Risk curve,0 days
+92.8,0,Risk curve,0 days
+92.9,0,Risk curve,0 days
+93,0,Risk curve,0 days
+93.1,0,Risk curve,0 days
+93.2,0,Risk curve,0 days
+93.3,0,Risk curve,0 days
+93.4,0,Risk curve,0 days
+93.5,0,Risk curve,0 days
+93.6,0,Risk curve,0 days
+93.7,0,Risk curve,0 days
+93.8,0,Risk curve,0 days
+93.9,0,Risk curve,0 days
+94,0,Risk curve,0 days
+94.1,0,Risk curve,0 days
+94.2,0,Risk curve,0 days
+94.3,0,Risk curve,0 days
+94.4,0,Risk curve,0 days
+94.5,0,Risk curve,0 days
+94.6,0,Risk curve,0 days
+94.7,0,Risk curve,0 days
+94.8,0,Risk curve,0 days
+94.9,0,Risk curve,0 days
+95,0,Risk curve,0 days
+95.1,0,Risk curve,0 days
+95.2,0,Risk curve,0 days
+95.3,0,Risk curve,0 days
+95.4,0,Risk curve,0 days
+95.5,0,Risk curve,0 days
+95.6,0,Risk curve,0 days
+95.7,0,Risk curve,0 days
+95.8,0,Risk curve,0 days
+95.9,0,Risk curve,0 days
+96,0,Risk curve,0 days
+96.1,0,Risk curve,0 days
+96.2,0,Risk curve,0 days
+96.3,0,Risk curve,0 days
+96.4,0,Risk curve,0 days
+96.5,0,Risk curve,0 days
+96.6,0,Risk curve,0 days
+96.7,0,Risk curve,0 days
+96.8,0,Risk curve,0 days
+96.9,0,Risk curve,0 days
+97,0,Risk curve,0 days
+97.1,0,Risk curve,0 days
+97.2,0,Risk curve,0 days
+97.3,0,Risk curve,0 days
+97.4,0,Risk curve,0 days
+97.5,0,Risk curve,0 days
+97.6,0,Risk curve,0 days
+97.7,0,Risk curve,0 days
+97.8,0,Risk curve,0 days
+97.9,0,Risk curve,0 days
+98,0,Risk curve,0 days
+98.1,0,Risk curve,0 days
+98.2,0,Risk curve,0 days
+98.3,0,Risk curve,0 days
+98.4,0,Risk curve,0 days
+98.5,0,Risk curve,0 days
+98.6,0,Risk curve,0 days
+98.7,0,Risk curve,0 days
+98.8,0,Risk curve,0 days
+98.9,0,Risk curve,0 days
+99,0,Risk curve,0 days
+99.1,0,Risk curve,0 days
+99.2,0,Risk curve,0 days
+99.3,0,Risk curve,0 days
+99.4,0,Risk curve,0 days
+99.5,0,Risk curve,0 days
+99.6,0,Risk curve,0 days
+99.7,0,Risk curve,0 days
+99.8,0,Risk curve,0 days
+99.9,0,Risk curve,0 days
+99.99,0,Risk curve,0 days
+99.999,0,Risk curve,0 days
+99.9999,0,Risk curve,0 days
+2,100,Low-intermediate risk boundary,0 days
+2.25,88.88888889,Low-intermediate risk boundary,0 days
+2.5,80,Low-intermediate risk boundary,0 days
+2.75,72.72727273,Low-intermediate risk boundary,0 days
+3,66.66666667,Low-intermediate risk boundary,0 days
+3.25,61.53846154,Low-intermediate risk boundary,0 days
+3.5,57.14285714,Low-intermediate risk boundary,0 days
+3.75,53.33333333,Low-intermediate risk boundary,0 days
+4,50,Low-intermediate risk boundary,0 days
+4.25,47.05882353,Low-intermediate risk boundary,0 days
+4.5,44.44444444,Low-intermediate risk boundary,0 days
+4.75,42.10526316,Low-intermediate risk boundary,0 days
+5,40,Low-intermediate risk boundary,0 days
+6,33.33333333,Low-intermediate risk boundary,0 days
+7,28.57142857,Low-intermediate risk boundary,0 days
+8,25,Low-intermediate risk boundary,0 days
+9,22.22222222,Low-intermediate risk boundary,0 days
+10,20,Low-intermediate risk boundary,0 days
+11,18.18181818,Low-intermediate risk boundary,0 days
+12,16.66666667,Low-intermediate risk boundary,0 days
+13,15.38461538,Low-intermediate risk boundary,0 days
+14,14.28571429,Low-intermediate risk boundary,0 days
+15,13.33333333,Low-intermediate risk boundary,0 days
+16,12.5,Low-intermediate risk boundary,0 days
+17,11.76470588,Low-intermediate risk boundary,0 days
+18,11.11111111,Low-intermediate risk boundary,0 days
+19,10.52631579,Low-intermediate risk boundary,0 days
+20,10,Low-intermediate risk boundary,0 days
+21,9.523809524,Low-intermediate risk boundary,0 days
+22,9.090909091,Low-intermediate risk boundary,0 days
+23,8.695652174,Low-intermediate risk boundary,0 days
+24,8.333333333,Low-intermediate risk boundary,0 days
+25,8,Low-intermediate risk boundary,0 days
+26,7.692307692,Low-intermediate risk boundary,0 days
+27,7.407407407,Low-intermediate risk boundary,0 days
+28,7.142857143,Low-intermediate risk boundary,0 days
+29,6.896551724,Low-intermediate risk boundary,0 days
+30,6.666666667,Low-intermediate risk boundary,0 days
+31,6.451612903,Low-intermediate risk boundary,0 days
+32,6.25,Low-intermediate risk boundary,0 days
+33,6.060606061,Low-intermediate risk boundary,0 days
+34,5.882352941,Low-intermediate risk boundary,0 days
+35,5.714285714,Low-intermediate risk boundary,0 days
+36,5.555555556,Low-intermediate risk boundary,0 days
+37,5.405405405,Low-intermediate risk boundary,0 days
+38,5.263157895,Low-intermediate risk boundary,0 days
+39,5.128205128,Low-intermediate risk boundary,0 days
+40,5,Low-intermediate risk boundary,0 days
+41,4.87804878,Low-intermediate risk boundary,0 days
+42,4.761904762,Low-intermediate risk boundary,0 days
+43,4.651162791,Low-intermediate risk boundary,0 days
+44,4.545454545,Low-intermediate risk boundary,0 days
+45,4.444444444,Low-intermediate risk boundary,0 days
+46,4.347826087,Low-intermediate risk boundary,0 days
+47,4.255319149,Low-intermediate risk boundary,0 days
+48,4.166666667,Low-intermediate risk boundary,0 days
+49,4.081632653,Low-intermediate risk boundary,0 days
+50,4,Low-intermediate risk boundary,0 days
+51,3.921568627,Low-intermediate risk boundary,0 days
+52,3.846153846,Low-intermediate risk boundary,0 days
+53,3.773584906,Low-intermediate risk boundary,0 days
+54,3.703703704,Low-intermediate risk boundary,0 days
+55,3.636363636,Low-intermediate risk boundary,0 days
+56,3.571428571,Low-intermediate risk boundary,0 days
+57,3.50877193,Low-intermediate risk boundary,0 days
+58,3.448275862,Low-intermediate risk boundary,0 days
+59,3.389830508,Low-intermediate risk boundary,0 days
+60,3.333333333,Low-intermediate risk boundary,0 days
+61,3.278688525,Low-intermediate risk boundary,0 days
+62,3.225806452,Low-intermediate risk boundary,0 days
+63,3.174603175,Low-intermediate risk boundary,0 days
+64,3.125,Low-intermediate risk boundary,0 days
+65,3.076923077,Low-intermediate risk boundary,0 days
+66,3.03030303,Low-intermediate risk boundary,0 days
+67,2.985074627,Low-intermediate risk boundary,0 days
+68,2.941176471,Low-intermediate risk boundary,0 days
+69,2.898550725,Low-intermediate risk boundary,0 days
+70,2.857142857,Low-intermediate risk boundary,0 days
+71,2.816901408,Low-intermediate risk boundary,0 days
+72,2.777777778,Low-intermediate risk boundary,0 days
+73,2.739726027,Low-intermediate risk boundary,0 days
+74,2.702702703,Low-intermediate risk boundary,0 days
+75,2.666666667,Low-intermediate risk boundary,0 days
+76,2.631578947,Low-intermediate risk boundary,0 days
+77,2.597402597,Low-intermediate risk boundary,0 days
+78,2.564102564,Low-intermediate risk boundary,0 days
+79,2.53164557,Low-intermediate risk boundary,0 days
+80,2.5,Low-intermediate risk boundary,0 days
+81,2.469135802,Low-intermediate risk boundary,0 days
+82,2.43902439,Low-intermediate risk boundary,0 days
+83,2.409638554,Low-intermediate risk boundary,0 days
+84,2.380952381,Low-intermediate risk boundary,0 days
+85,2.352941176,Low-intermediate risk boundary,0 days
+86,2.325581395,Low-intermediate risk boundary,0 days
+87,2.298850575,Low-intermediate risk boundary,0 days
+88,2.272727273,Low-intermediate risk boundary,0 days
+89,2.247191011,Low-intermediate risk boundary,0 days
+90,2.222222222,Low-intermediate risk boundary,0 days
+91,2.197802198,Low-intermediate risk boundary,0 days
+92,2.173913043,Low-intermediate risk boundary,0 days
+93,2.150537634,Low-intermediate risk boundary,0 days
+94,2.127659574,Low-intermediate risk boundary,0 days
+95,2.105263158,Low-intermediate risk boundary,0 days
+96,2.083333333,Low-intermediate risk boundary,0 days
+97,2.06185567,Low-intermediate risk boundary,0 days
+98,2.040816327,Low-intermediate risk boundary,0 days
+99,2.02020202,Low-intermediate risk boundary,0 days
+100,2,Low-intermediate risk boundary,0 days
+10,100,Intermediate-high risk boundary,0 days
+11,90.90909091,Intermediate-high risk boundary,0 days
+12,83.33333333,Intermediate-high risk boundary,0 days
+13,76.92307692,Intermediate-high risk boundary,0 days
+14,71.42857143,Intermediate-high risk boundary,0 days
+15,66.66666667,Intermediate-high risk boundary,0 days
+16,62.5,Intermediate-high risk boundary,0 days
+17,58.82352941,Intermediate-high risk boundary,0 days
+18,55.55555556,Intermediate-high risk boundary,0 days
+19,52.63157895,Intermediate-high risk boundary,0 days
+20,50,Intermediate-high risk boundary,0 days
+21,47.61904762,Intermediate-high risk boundary,0 days
+22,45.45454545,Intermediate-high risk boundary,0 days
+23,43.47826087,Intermediate-high risk boundary,0 days
+24,41.66666667,Intermediate-high risk boundary,0 days
+25,40,Intermediate-high risk boundary,0 days
+26,38.46153846,Intermediate-high risk boundary,0 days
+27,37.03703704,Intermediate-high risk boundary,0 days
+28,35.71428571,Intermediate-high risk boundary,0 days
+29,34.48275862,Intermediate-high risk boundary,0 days
+30,33.33333333,Intermediate-high risk boundary,0 days
+31,32.25806452,Intermediate-high risk boundary,0 days
+32,31.25,Intermediate-high risk boundary,0 days
+33,30.3030303,Intermediate-high risk boundary,0 days
+34,29.41176471,Intermediate-high risk boundary,0 days
+35,28.57142857,Intermediate-high risk boundary,0 days
+36,27.77777778,Intermediate-high risk boundary,0 days
+37,27.02702703,Intermediate-high risk boundary,0 days
+38,26.31578947,Intermediate-high risk boundary,0 days
+39,25.64102564,Intermediate-high risk boundary,0 days
+40,25,Intermediate-high risk boundary,0 days
+41,24.3902439,Intermediate-high risk boundary,0 days
+42,23.80952381,Intermediate-high risk boundary,0 days
+43,23.25581395,Intermediate-high risk boundary,0 days
+44,22.72727273,Intermediate-high risk boundary,0 days
+45,22.22222222,Intermediate-high risk boundary,0 days
+46,21.73913043,Intermediate-high risk boundary,0 days
+47,21.27659574,Intermediate-high risk boundary,0 days
+48,20.83333333,Intermediate-high risk boundary,0 days
+49,20.40816327,Intermediate-high risk boundary,0 days
+50,20,Intermediate-high risk boundary,0 days
+51,19.60784314,Intermediate-high risk boundary,0 days
+52,19.23076923,Intermediate-high risk boundary,0 days
+53,18.86792453,Intermediate-high risk boundary,0 days
+54,18.51851852,Intermediate-high risk boundary,0 days
+55,18.18181818,Intermediate-high risk boundary,0 days
+56,17.85714286,Intermediate-high risk boundary,0 days
+57,17.54385965,Intermediate-high risk boundary,0 days
+58,17.24137931,Intermediate-high risk boundary,0 days
+59,16.94915254,Intermediate-high risk boundary,0 days
+60,16.66666667,Intermediate-high risk boundary,0 days
+61,16.39344262,Intermediate-high risk boundary,0 days
+62,16.12903226,Intermediate-high risk boundary,0 days
+63,15.87301587,Intermediate-high risk boundary,0 days
+64,15.625,Intermediate-high risk boundary,0 days
+65,15.38461538,Intermediate-high risk boundary,0 days
+66,15.15151515,Intermediate-high risk boundary,0 days
+67,14.92537313,Intermediate-high risk boundary,0 days
+68,14.70588235,Intermediate-high risk boundary,0 days
+69,14.49275362,Intermediate-high risk boundary,0 days
+70,14.28571429,Intermediate-high risk boundary,0 days
+71,14.08450704,Intermediate-high risk boundary,0 days
+72,13.88888889,Intermediate-high risk boundary,0 days
+73,13.69863014,Intermediate-high risk boundary,0 days
+74,13.51351351,Intermediate-high risk boundary,0 days
+75,13.33333333,Intermediate-high risk boundary,0 days
+76,13.15789474,Intermediate-high risk boundary,0 days
+77,12.98701299,Intermediate-high risk boundary,0 days
+78,12.82051282,Intermediate-high risk boundary,0 days
+79,12.65822785,Intermediate-high risk boundary,0 days
+80,12.5,Intermediate-high risk boundary,0 days
+81,12.34567901,Intermediate-high risk boundary,0 days
+82,12.19512195,Intermediate-high risk boundary,0 days
+83,12.04819277,Intermediate-high risk boundary,0 days
+84,11.9047619,Intermediate-high risk boundary,0 days
+85,11.76470588,Intermediate-high risk boundary,0 days
+86,11.62790698,Intermediate-high risk boundary,0 days
+87,11.49425287,Intermediate-high risk boundary,0 days
+88,11.36363636,Intermediate-high risk boundary,0 days
+89,11.23595506,Intermediate-high risk boundary,0 days
+90,11.11111111,Intermediate-high risk boundary,0 days
+91,10.98901099,Intermediate-high risk boundary,0 days
+92,10.86956522,Intermediate-high risk boundary,0 days
+93,10.75268817,Intermediate-high risk boundary,0 days
+94,10.63829787,Intermediate-high risk boundary,0 days
+95,10.52631579,Intermediate-high risk boundary,0 days
+96,10.41666667,Intermediate-high risk boundary,0 days
+97,10.30927835,Intermediate-high risk boundary,0 days
+98,10.20408163,Intermediate-high risk boundary,0 days
+99,10.1010101,Intermediate-high risk boundary,0 days
+100,10,Intermediate-high risk boundary,0 days
+0.25,100,De minimis-low risk boundary,0 days
+0.5,50,De minimis-low risk boundary,0 days
+0.75,33.33333333,De minimis-low risk boundary,0 days
+1,25,De minimis-low risk boundary,0 days
+1.25,20,De minimis-low risk boundary,0 days
+1.5,16.66666667,De minimis-low risk boundary,0 days
+1.75,14.28571429,De minimis-low risk boundary,0 days
+2,12.5,De minimis-low risk boundary,0 days
+2.25,11.11111111,De minimis-low risk boundary,0 days
+2.5,10,De minimis-low risk boundary,0 days
+2.75,9.090909091,De minimis-low risk boundary,0 days
+3,8.333333333,De minimis-low risk boundary,0 days
+3.25,7.692307692,De minimis-low risk boundary,0 days
+3.5,7.142857143,De minimis-low risk boundary,0 days
+3.75,6.666666667,De minimis-low risk boundary,0 days
+4,6.25,De minimis-low risk boundary,0 days
+4.25,5.882352941,De minimis-low risk boundary,0 days
+4.5,5.555555556,De minimis-low risk boundary,0 days
+4.75,5.263157895,De minimis-low risk boundary,0 days
+5,5,De minimis-low risk boundary,0 days
+6,4.166666667,De minimis-low risk boundary,0 days
+7,3.571428571,De minimis-low risk boundary,0 days
+8,3.125,De minimis-low risk boundary,0 days
+9,2.777777778,De minimis-low risk boundary,0 days
+10,2.5,De minimis-low risk boundary,0 days
+11,2.272727273,De minimis-low risk boundary,0 days
+12,2.083333333,De minimis-low risk boundary,0 days
+13,1.923076923,De minimis-low risk boundary,0 days
+14,1.785714286,De minimis-low risk boundary,0 days
+15,1.666666667,De minimis-low risk boundary,0 days
+16,1.5625,De minimis-low risk boundary,0 days
+17,1.470588235,De minimis-low risk boundary,0 days
+18,1.388888889,De minimis-low risk boundary,0 days
+19,1.315789474,De minimis-low risk boundary,0 days
+20,1.25,De minimis-low risk boundary,0 days
+21,1.19047619,De minimis-low risk boundary,0 days
+22,1.136363636,De minimis-low risk boundary,0 days
+23,1.086956522,De minimis-low risk boundary,0 days
+24,1.041666667,De minimis-low risk boundary,0 days
+25,1,De minimis-low risk boundary,0 days
+26,0.961538462,De minimis-low risk boundary,0 days
+27,0.925925926,De minimis-low risk boundary,0 days
+28,0.892857143,De minimis-low risk boundary,0 days
+29,0.862068966,De minimis-low risk boundary,0 days
+30,0.833333333,De minimis-low risk boundary,0 days
+31,0.806451613,De minimis-low risk boundary,0 days
+32,0.78125,De minimis-low risk boundary,0 days
+33,0.757575758,De minimis-low risk boundary,0 days
+34,0.735294118,De minimis-low risk boundary,0 days
+35,0.714285714,De minimis-low risk boundary,0 days
+36,0.694444444,De minimis-low risk boundary,0 days
+37,0.675675676,De minimis-low risk boundary,0 days
+38,0.657894737,De minimis-low risk boundary,0 days
+39,0.641025641,De minimis-low risk boundary,0 days
+40,0.625,De minimis-low risk boundary,0 days
+41,0.609756098,De minimis-low risk boundary,0 days
+42,0.595238095,De minimis-low risk boundary,0 days
+43,0.581395349,De minimis-low risk boundary,0 days
+44,0.568181818,De minimis-low risk boundary,0 days
+45,0.555555556,De minimis-low risk boundary,0 days
+46,0.543478261,De minimis-low risk boundary,0 days
+47,0.531914894,De minimis-low risk boundary,0 days
+48,0.520833333,De minimis-low risk boundary,0 days
+49,0.510204082,De minimis-low risk boundary,0 days
+50,0.5,De minimis-low risk boundary,0 days
+51,0.490196078,De minimis-low risk boundary,0 days
+52,0.480769231,De minimis-low risk boundary,0 days
+53,0.471698113,De minimis-low risk boundary,0 days
+54,0.462962963,De minimis-low risk boundary,0 days
+55,0.454545455,De minimis-low risk boundary,0 days
+56,0.446428571,De minimis-low risk boundary,0 days
+57,0.438596491,De minimis-low risk boundary,0 days
+58,0.431034483,De minimis-low risk boundary,0 days
+59,0.423728814,De minimis-low risk boundary,0 days
+60,0.416666667,De minimis-low risk boundary,0 days
+61,0.409836066,De minimis-low risk boundary,0 days
+62,0.403225806,De minimis-low risk boundary,0 days
+63,0.396825397,De minimis-low risk boundary,0 days
+64,0.390625,De minimis-low risk boundary,0 days
+65,0.384615385,De minimis-low risk boundary,0 days
+66,0.378787879,De minimis-low risk boundary,0 days
+67,0.373134328,De minimis-low risk boundary,0 days
+68,0.367647059,De minimis-low risk boundary,0 days
+69,0.362318841,De minimis-low risk boundary,0 days
+70,0.357142857,De minimis-low risk boundary,0 days
+71,0.352112676,De minimis-low risk boundary,0 days
+72,0.347222222,De minimis-low risk boundary,0 days
+73,0.342465753,De minimis-low risk boundary,0 days
+74,0.337837838,De minimis-low risk boundary,0 days
+75,0.333333333,De minimis-low risk boundary,0 days
+76,0.328947368,De minimis-low risk boundary,0 days
+77,0.324675325,De minimis-low risk boundary,0 days
+78,0.320512821,De minimis-low risk boundary,0 days
+79,0.316455696,De minimis-low risk boundary,0 days
+80,0.3125,De minimis-low risk boundary,0 days
+81,0.308641975,De minimis-low risk boundary,0 days
+82,0.304878049,De minimis-low risk boundary,0 days
+83,0.301204819,De minimis-low risk boundary,0 days
+84,0.297619048,De minimis-low risk boundary,0 days
+85,0.294117647,De minimis-low risk boundary,0 days
+86,0.290697674,De minimis-low risk boundary,0 days
+87,0.287356322,De minimis-low risk boundary,0 days
+88,0.284090909,De minimis-low risk boundary,0 days
+89,0.280898876,De minimis-low risk boundary,0 days
+90,0.277777778,De minimis-low risk boundary,0 days
+91,0.274725275,De minimis-low risk boundary,0 days
+92,0.27173913,De minimis-low risk boundary,0 days
+93,0.268817204,De minimis-low risk boundary,0 days
+94,0.265957447,De minimis-low risk boundary,0 days
+95,0.263157895,De minimis-low risk boundary,0 days
+96,0.260416667,De minimis-low risk boundary,0 days
+97,0.257731959,De minimis-low risk boundary,0 days
+98,0.255102041,De minimis-low risk boundary,0 days
+99,0.252525253,De minimis-low risk boundary,0 days
+100,0.25,De minimis-low risk boundary,0 days
+0.0001,99.99,Risk curve,70 days
+0.001,99,Risk curve,70 days
+0.01,87,Risk curve,70 days
+0.1,35.8,Risk curve,70 days
+0.2,19.4,Risk curve,70 days
+0.3,12.3,Risk curve,70 days
+0.4,8.5,Risk curve,70 days
+0.5,6,Risk curve,70 days
+0.6,4.5,Risk curve,70 days
+0.7,3.4,Risk curve,70 days
+0.8,2.7,Risk curve,70 days
+0.9,2.1,Risk curve,70 days
+1,1.7,Risk curve,70 days
+1.1,1.5,Risk curve,70 days
+1.2,1.2,Risk curve,70 days
+1.3,1,Risk curve,70 days
+1.4,0.7,Risk curve,70 days
+1.5,0.6,Risk curve,70 days
+1.6,0.5,Risk curve,70 days
+1.7,0.4,Risk curve,70 days
+1.8,0.3,Risk curve,70 days
+1.9,0.3,Risk curve,70 days
+2,0.3,Risk curve,70 days
+2.1,0.3,Risk curve,70 days
+2.2,0.2,Risk curve,70 days
+2.3,0.2,Risk curve,70 days
+2.4,0.2,Risk curve,70 days
+2.5,0.2,Risk curve,70 days
+2.6,0.2,Risk curve,70 days
+2.7,0.1,Risk curve,70 days
+2.8,0.1,Risk curve,70 days
+2.9,0.1,Risk curve,70 days
+3,0.1,Risk curve,70 days
+3.1,0.1,Risk curve,70 days
+3.2,0.1,Risk curve,70 days
+3.3,0.1,Risk curve,70 days
+3.4,0.1,Risk curve,70 days
+3.5,0.1,Risk curve,70 days
+3.6,0.1,Risk curve,70 days
+3.7,0.1,Risk curve,70 days
+3.8,0.1,Risk curve,70 days
+3.9,0.1,Risk curve,70 days
+4,0.1,Risk curve,70 days
+4.1,0.1,Risk curve,70 days
+4.2,0.1,Risk curve,70 days
+4.3,0.1,Risk curve,70 days
+4.4,0.1,Risk curve,70 days
+4.5,0.1,Risk curve,70 days
+4.6,0.1,Risk curve,70 days
+4.7,0.1,Risk curve,70 days
+4.8,0.1,Risk curve,70 days
+4.9,0.1,Risk curve,70 days
+5,0.1,Risk curve,70 days
+5.1,0.1,Risk curve,70 days
+5.2,0.1,Risk curve,70 days
+5.3,0.1,Risk curve,70 days
+5.4,0.1,Risk curve,70 days
+5.5,0,Risk curve,70 days
+5.6,0,Risk curve,70 days
+5.7,0,Risk curve,70 days
+5.8,0,Risk curve,70 days
+5.9,0,Risk curve,70 days
+6,0,Risk curve,70 days
+6.1,0,Risk curve,70 days
+6.2,0,Risk curve,70 days
+6.3,0,Risk curve,70 days
+6.4,0,Risk curve,70 days
+6.5,0,Risk curve,70 days
+6.6,0,Risk curve,70 days
+6.7,0,Risk curve,70 days
+6.8,0,Risk curve,70 days
+6.9,0,Risk curve,70 days
+7,0,Risk curve,70 days
+7.1,0,Risk curve,70 days
+7.2,0,Risk curve,70 days
+7.3,0,Risk curve,70 days
+7.4,0,Risk curve,70 days
+7.5,0,Risk curve,70 days
+7.6,0,Risk curve,70 days
+7.7,0,Risk curve,70 days
+7.8,0,Risk curve,70 days
+7.9,0,Risk curve,70 days
+8,0,Risk curve,70 days
+8.1,0,Risk curve,70 days
+8.2,0,Risk curve,70 days
+8.3,0,Risk curve,70 days
+8.4,0,Risk curve,70 days
+8.5,0,Risk curve,70 days
+8.6,0,Risk curve,70 days
+8.7,0,Risk curve,70 days
+8.8,0,Risk curve,70 days
+8.9,0,Risk curve,70 days
+9,0,Risk curve,70 days
+9.1,0,Risk curve,70 days
+9.2,0,Risk curve,70 days
+9.3,0,Risk curve,70 days
+9.4,0,Risk curve,70 days
+9.5,0,Risk curve,70 days
+9.6,0,Risk curve,70 days
+9.7,0,Risk curve,70 days
+9.8,0,Risk curve,70 days
+9.9,0,Risk curve,70 days
+10,0,Risk curve,70 days
+10.1,0,Risk curve,70 days
+10.2,0,Risk curve,70 days
+10.3,0,Risk curve,70 days
+10.4,0,Risk curve,70 days
+10.5,0,Risk curve,70 days
+10.6,0,Risk curve,70 days
+10.7,0,Risk curve,70 days
+10.8,0,Risk curve,70 days
+10.9,0,Risk curve,70 days
+11,0,Risk curve,70 days
+11.1,0,Risk curve,70 days
+11.2,0,Risk curve,70 days
+11.3,0,Risk curve,70 days
+11.4,0,Risk curve,70 days
+11.5,0,Risk curve,70 days
+11.6,0,Risk curve,70 days
+11.7,0,Risk curve,70 days
+11.8,0,Risk curve,70 days
+11.9,0,Risk curve,70 days
+12,0,Risk curve,70 days
+12.1,0,Risk curve,70 days
+12.2,0,Risk curve,70 days
+12.3,0,Risk curve,70 days
+12.4,0,Risk curve,70 days
+12.5,0,Risk curve,70 days
+12.6,0,Risk curve,70 days
+12.7,0,Risk curve,70 days
+12.8,0,Risk curve,70 days
+12.9,0,Risk curve,70 days
+13,0,Risk curve,70 days
+13.1,0,Risk curve,70 days
+13.2,0,Risk curve,70 days
+13.3,0,Risk curve,70 days
+13.4,0,Risk curve,70 days
+13.5,0,Risk curve,70 days
+13.6,0,Risk curve,70 days
+13.7,0,Risk curve,70 days
+13.8,0,Risk curve,70 days
+13.9,0,Risk curve,70 days
+14,0,Risk curve,70 days
+14.1,0,Risk curve,70 days
+14.2,0,Risk curve,70 days
+14.3,0,Risk curve,70 days
+14.4,0,Risk curve,70 days
+14.5,0,Risk curve,70 days
+14.6,0,Risk curve,70 days
+14.7,0,Risk curve,70 days
+14.8,0,Risk curve,70 days
+14.9,0,Risk curve,70 days
+15,0,Risk curve,70 days
+15.1,0,Risk curve,70 days
+15.2,0,Risk curve,70 days
+15.3,0,Risk curve,70 days
+15.4,0,Risk curve,70 days
+15.5,0,Risk curve,70 days
+15.6,0,Risk curve,70 days
+15.7,0,Risk curve,70 days
+15.8,0,Risk curve,70 days
+15.9,0,Risk curve,70 days
+16,0,Risk curve,70 days
+16.1,0,Risk curve,70 days
+16.2,0,Risk curve,70 days
+16.3,0,Risk curve,70 days
+16.4,0,Risk curve,70 days
+16.5,0,Risk curve,70 days
+16.6,0,Risk curve,70 days
+16.7,0,Risk curve,70 days
+16.8,0,Risk curve,70 days
+16.9,0,Risk curve,70 days
+17,0,Risk curve,70 days
+17.1,0,Risk curve,70 days
+17.2,0,Risk curve,70 days
+17.3,0,Risk curve,70 days
+17.4,0,Risk curve,70 days
+17.5,0,Risk curve,70 days
+17.6,0,Risk curve,70 days
+17.7,0,Risk curve,70 days
+17.8,0,Risk curve,70 days
+17.9,0,Risk curve,70 days
+18,0,Risk curve,70 days
+18.1,0,Risk curve,70 days
+18.2,0,Risk curve,70 days
+18.3,0,Risk curve,70 days
+18.4,0,Risk curve,70 days
+18.5,0,Risk curve,70 days
+18.6,0,Risk curve,70 days
+18.7,0,Risk curve,70 days
+18.8,0,Risk curve,70 days
+18.9,0,Risk curve,70 days
+19,0,Risk curve,70 days
+19.1,0,Risk curve,70 days
+19.2,0,Risk curve,70 days
+19.3,0,Risk curve,70 days
+19.4,0,Risk curve,70 days
+19.5,0,Risk curve,70 days
+19.6,0,Risk curve,70 days
+19.7,0,Risk curve,70 days
+19.8,0,Risk curve,70 days
+19.9,0,Risk curve,70 days
+20,0,Risk curve,70 days
+20.1,0,Risk curve,70 days
+20.2,0,Risk curve,70 days
+20.3,0,Risk curve,70 days
+20.4,0,Risk curve,70 days
+20.5,0,Risk curve,70 days
+20.6,0,Risk curve,70 days
+20.7,0,Risk curve,70 days
+20.8,0,Risk curve,70 days
+20.9,0,Risk curve,70 days
+21,0,Risk curve,70 days
+21.1,0,Risk curve,70 days
+21.2,0,Risk curve,70 days
+21.3,0,Risk curve,70 days
+21.4,0,Risk curve,70 days
+21.5,0,Risk curve,70 days
+21.6,0,Risk curve,70 days
+21.7,0,Risk curve,70 days
+21.8,0,Risk curve,70 days
+21.9,0,Risk curve,70 days
+22,0,Risk curve,70 days
+22.1,0,Risk curve,70 days
+22.2,0,Risk curve,70 days
+22.3,0,Risk curve,70 days
+22.4,0,Risk curve,70 days
+22.5,0,Risk curve,70 days
+22.6,0,Risk curve,70 days
+22.7,0,Risk curve,70 days
+22.8,0,Risk curve,70 days
+22.9,0,Risk curve,70 days
+23,0,Risk curve,70 days
+23.1,0,Risk curve,70 days
+23.2,0,Risk curve,70 days
+23.3,0,Risk curve,70 days
+23.4,0,Risk curve,70 days
+23.5,0,Risk curve,70 days
+23.6,0,Risk curve,70 days
+23.7,0,Risk curve,70 days
+23.8,0,Risk curve,70 days
+23.9,0,Risk curve,70 days
+24,0,Risk curve,70 days
+24.1,0,Risk curve,70 days
+24.2,0,Risk curve,70 days
+24.3,0,Risk curve,70 days
+24.4,0,Risk curve,70 days
+24.5,0,Risk curve,70 days
+24.6,0,Risk curve,70 days
+24.7,0,Risk curve,70 days
+24.8,0,Risk curve,70 days
+24.9,0,Risk curve,70 days
+25,0,Risk curve,70 days
+25.1,0,Risk curve,70 days
+25.2,0,Risk curve,70 days
+25.3,0,Risk curve,70 days
+25.4,0,Risk curve,70 days
+25.5,0,Risk curve,70 days
+25.6,0,Risk curve,70 days
+25.7,0,Risk curve,70 days
+25.8,0,Risk curve,70 days
+25.9,0,Risk curve,70 days
+26,0,Risk curve,70 days
+26.1,0,Risk curve,70 days
+26.2,0,Risk curve,70 days
+26.3,0,Risk curve,70 days
+26.4,0,Risk curve,70 days
+26.5,0,Risk curve,70 days
+26.6,0,Risk curve,70 days
+26.7,0,Risk curve,70 days
+26.8,0,Risk curve,70 days
+26.9,0,Risk curve,70 days
+27,0,Risk curve,70 days
+27.1,0,Risk curve,70 days
+27.2,0,Risk curve,70 days
+27.3,0,Risk curve,70 days
+27.4,0,Risk curve,70 days
+27.5,0,Risk curve,70 days
+27.6,0,Risk curve,70 days
+27.7,0,Risk curve,70 days
+27.8,0,Risk curve,70 days
+27.9,0,Risk curve,70 days
+28,0,Risk curve,70 days
+28.1,0,Risk curve,70 days
+28.2,0,Risk curve,70 days
+28.3,0,Risk curve,70 days
+28.4,0,Risk curve,70 days
+28.5,0,Risk curve,70 days
+28.6,0,Risk curve,70 days
+28.7,0,Risk curve,70 days
+28.8,0,Risk curve,70 days
+28.9,0,Risk curve,70 days
+29,0,Risk curve,70 days
+29.1,0,Risk curve,70 days
+29.2,0,Risk curve,70 days
+29.3,0,Risk curve,70 days
+29.4,0,Risk curve,70 days
+29.5,0,Risk curve,70 days
+29.6,0,Risk curve,70 days
+29.7,0,Risk curve,70 days
+29.8,0,Risk curve,70 days
+29.9,0,Risk curve,70 days
+30,0,Risk curve,70 days
+30.1,0,Risk curve,70 days
+30.2,0,Risk curve,70 days
+30.3,0,Risk curve,70 days
+30.4,0,Risk curve,70 days
+30.5,0,Risk curve,70 days
+30.6,0,Risk curve,70 days
+30.7,0,Risk curve,70 days
+30.8,0,Risk curve,70 days
+30.9,0,Risk curve,70 days
+31,0,Risk curve,70 days
+31.1,0,Risk curve,70 days
+31.2,0,Risk curve,70 days
+31.3,0,Risk curve,70 days
+31.4,0,Risk curve,70 days
+31.5,0,Risk curve,70 days
+31.6,0,Risk curve,70 days
+31.7,0,Risk curve,70 days
+31.8,0,Risk curve,70 days
+31.9,0,Risk curve,70 days
+32,0,Risk curve,70 days
+32.1,0,Risk curve,70 days
+32.2,0,Risk curve,70 days
+32.3,0,Risk curve,70 days
+32.4,0,Risk curve,70 days
+32.5,0,Risk curve,70 days
+32.6,0,Risk curve,70 days
+32.7,0,Risk curve,70 days
+32.8,0,Risk curve,70 days
+32.9,0,Risk curve,70 days
+33,0,Risk curve,70 days
+33.1,0,Risk curve,70 days
+33.2,0,Risk curve,70 days
+33.3,0,Risk curve,70 days
+33.4,0,Risk curve,70 days
+33.5,0,Risk curve,70 days
+33.6,0,Risk curve,70 days
+33.7,0,Risk curve,70 days
+33.8,0,Risk curve,70 days
+33.9,0,Risk curve,70 days
+34,0,Risk curve,70 days
+34.1,0,Risk curve,70 days
+34.2,0,Risk curve,70 days
+34.3,0,Risk curve,70 days
+34.4,0,Risk curve,70 days
+34.5,0,Risk curve,70 days
+34.6,0,Risk curve,70 days
+34.7,0,Risk curve,70 days
+34.8,0,Risk curve,70 days
+34.9,0,Risk curve,70 days
+35,0,Risk curve,70 days
+35.1,0,Risk curve,70 days
+35.2,0,Risk curve,70 days
+35.3,0,Risk curve,70 days
+35.4,0,Risk curve,70 days
+35.5,0,Risk curve,70 days
+35.6,0,Risk curve,70 days
+35.7,0,Risk curve,70 days
+35.8,0,Risk curve,70 days
+35.9,0,Risk curve,70 days
+36,0,Risk curve,70 days
+36.1,0,Risk curve,70 days
+36.2,0,Risk curve,70 days
+36.3,0,Risk curve,70 days
+36.4,0,Risk curve,70 days
+36.5,0,Risk curve,70 days
+36.6,0,Risk curve,70 days
+36.7,0,Risk curve,70 days
+36.8,0,Risk curve,70 days
+36.9,0,Risk curve,70 days
+37,0,Risk curve,70 days
+37.1,0,Risk curve,70 days
+37.2,0,Risk curve,70 days
+37.3,0,Risk curve,70 days
+37.4,0,Risk curve,70 days
+37.5,0,Risk curve,70 days
+37.6,0,Risk curve,70 days
+37.7,0,Risk curve,70 days
+37.8,0,Risk curve,70 days
+37.9,0,Risk curve,70 days
+38,0,Risk curve,70 days
+38.1,0,Risk curve,70 days
+38.2,0,Risk curve,70 days
+38.3,0,Risk curve,70 days
+38.4,0,Risk curve,70 days
+38.5,0,Risk curve,70 days
+38.6,0,Risk curve,70 days
+38.7,0,Risk curve,70 days
+38.8,0,Risk curve,70 days
+38.9,0,Risk curve,70 days
+39,0,Risk curve,70 days
+39.1,0,Risk curve,70 days
+39.2,0,Risk curve,70 days
+39.3,0,Risk curve,70 days
+39.4,0,Risk curve,70 days
+39.5,0,Risk curve,70 days
+39.6,0,Risk curve,70 days
+39.7,0,Risk curve,70 days
+39.8,0,Risk curve,70 days
+39.9,0,Risk curve,70 days
+40,0,Risk curve,70 days
+40.1,0,Risk curve,70 days
+40.2,0,Risk curve,70 days
+40.3,0,Risk curve,70 days
+40.4,0,Risk curve,70 days
+40.5,0,Risk curve,70 days
+40.6,0,Risk curve,70 days
+40.7,0,Risk curve,70 days
+40.8,0,Risk curve,70 days
+40.9,0,Risk curve,70 days
+41,0,Risk curve,70 days
+41.1,0,Risk curve,70 days
+41.2,0,Risk curve,70 days
+41.3,0,Risk curve,70 days
+41.4,0,Risk curve,70 days
+41.5,0,Risk curve,70 days
+41.6,0,Risk curve,70 days
+41.7,0,Risk curve,70 days
+41.8,0,Risk curve,70 days
+41.9,0,Risk curve,70 days
+42,0,Risk curve,70 days
+42.1,0,Risk curve,70 days
+42.2,0,Risk curve,70 days
+42.3,0,Risk curve,70 days
+42.4,0,Risk curve,70 days
+42.5,0,Risk curve,70 days
+42.6,0,Risk curve,70 days
+42.7,0,Risk curve,70 days
+42.8,0,Risk curve,70 days
+42.9,0,Risk curve,70 days
+43,0,Risk curve,70 days
+43.1,0,Risk curve,70 days
+43.2,0,Risk curve,70 days
+43.3,0,Risk curve,70 days
+43.4,0,Risk curve,70 days
+43.5,0,Risk curve,70 days
+43.6,0,Risk curve,70 days
+43.7,0,Risk curve,70 days
+43.8,0,Risk curve,70 days
+43.9,0,Risk curve,70 days
+44,0,Risk curve,70 days
+44.1,0,Risk curve,70 days
+44.2,0,Risk curve,70 days
+44.3,0,Risk curve,70 days
+44.4,0,Risk curve,70 days
+44.5,0,Risk curve,70 days
+44.6,0,Risk curve,70 days
+44.7,0,Risk curve,70 days
+44.8,0,Risk curve,70 days
+44.9,0,Risk curve,70 days
+45,0,Risk curve,70 days
+45.1,0,Risk curve,70 days
+45.2,0,Risk curve,70 days
+45.3,0,Risk curve,70 days
+45.4,0,Risk curve,70 days
+45.5,0,Risk curve,70 days
+45.6,0,Risk curve,70 days
+45.7,0,Risk curve,70 days
+45.8,0,Risk curve,70 days
+45.9,0,Risk curve,70 days
+46,0,Risk curve,70 days
+46.1,0,Risk curve,70 days
+46.2,0,Risk curve,70 days
+46.3,0,Risk curve,70 days
+46.4,0,Risk curve,70 days
+46.5,0,Risk curve,70 days
+46.6,0,Risk curve,70 days
+46.7,0,Risk curve,70 days
+46.8,0,Risk curve,70 days
+46.9,0,Risk curve,70 days
+47,0,Risk curve,70 days
+47.1,0,Risk curve,70 days
+47.2,0,Risk curve,70 days
+47.3,0,Risk curve,70 days
+47.4,0,Risk curve,70 days
+47.5,0,Risk curve,70 days
+47.6,0,Risk curve,70 days
+47.7,0,Risk curve,70 days
+47.8,0,Risk curve,70 days
+47.9,0,Risk curve,70 days
+48,0,Risk curve,70 days
+48.1,0,Risk curve,70 days
+48.2,0,Risk curve,70 days
+48.3,0,Risk curve,70 days
+48.4,0,Risk curve,70 days
+48.5,0,Risk curve,70 days
+48.6,0,Risk curve,70 days
+48.7,0,Risk curve,70 days
+48.8,0,Risk curve,70 days
+48.9,0,Risk curve,70 days
+49,0,Risk curve,70 days
+49.1,0,Risk curve,70 days
+49.2,0,Risk curve,70 days
+49.3,0,Risk curve,70 days
+49.4,0,Risk curve,70 days
+49.5,0,Risk curve,70 days
+49.6,0,Risk curve,70 days
+49.7,0,Risk curve,70 days
+49.8,0,Risk curve,70 days
+49.9,0,Risk curve,70 days
+50,0,Risk curve,70 days
+50.1,0,Risk curve,70 days
+50.2,0,Risk curve,70 days
+50.3,0,Risk curve,70 days
+50.4,0,Risk curve,70 days
+50.5,0,Risk curve,70 days
+50.6,0,Risk curve,70 days
+50.7,0,Risk curve,70 days
+50.8,0,Risk curve,70 days
+50.9,0,Risk curve,70 days
+51,0,Risk curve,70 days
+51.1,0,Risk curve,70 days
+51.2,0,Risk curve,70 days
+51.3,0,Risk curve,70 days
+51.4,0,Risk curve,70 days
+51.5,0,Risk curve,70 days
+51.6,0,Risk curve,70 days
+51.7,0,Risk curve,70 days
+51.8,0,Risk curve,70 days
+51.9,0,Risk curve,70 days
+52,0,Risk curve,70 days
+52.1,0,Risk curve,70 days
+52.2,0,Risk curve,70 days
+52.3,0,Risk curve,70 days
+52.4,0,Risk curve,70 days
+52.5,0,Risk curve,70 days
+52.6,0,Risk curve,70 days
+52.7,0,Risk curve,70 days
+52.8,0,Risk curve,70 days
+52.9,0,Risk curve,70 days
+53,0,Risk curve,70 days
+53.1,0,Risk curve,70 days
+53.2,0,Risk curve,70 days
+53.3,0,Risk curve,70 days
+53.4,0,Risk curve,70 days
+53.5,0,Risk curve,70 days
+53.6,0,Risk curve,70 days
+53.7,0,Risk curve,70 days
+53.8,0,Risk curve,70 days
+53.9,0,Risk curve,70 days
+54,0,Risk curve,70 days
+54.1,0,Risk curve,70 days
+54.2,0,Risk curve,70 days
+54.3,0,Risk curve,70 days
+54.4,0,Risk curve,70 days
+54.5,0,Risk curve,70 days
+54.6,0,Risk curve,70 days
+54.7,0,Risk curve,70 days
+54.8,0,Risk curve,70 days
+54.9,0,Risk curve,70 days
+55,0,Risk curve,70 days
+55.1,0,Risk curve,70 days
+55.2,0,Risk curve,70 days
+55.3,0,Risk curve,70 days
+55.4,0,Risk curve,70 days
+55.5,0,Risk curve,70 days
+55.6,0,Risk curve,70 days
+55.7,0,Risk curve,70 days
+55.8,0,Risk curve,70 days
+55.9,0,Risk curve,70 days
+56,0,Risk curve,70 days
+56.1,0,Risk curve,70 days
+56.2,0,Risk curve,70 days
+56.3,0,Risk curve,70 days
+56.4,0,Risk curve,70 days
+56.5,0,Risk curve,70 days
+56.6,0,Risk curve,70 days
+56.7,0,Risk curve,70 days
+56.8,0,Risk curve,70 days
+56.9,0,Risk curve,70 days
+57,0,Risk curve,70 days
+57.1,0,Risk curve,70 days
+57.2,0,Risk curve,70 days
+57.3,0,Risk curve,70 days
+57.4,0,Risk curve,70 days
+57.5,0,Risk curve,70 days
+57.6,0,Risk curve,70 days
+57.7,0,Risk curve,70 days
+57.8,0,Risk curve,70 days
+57.9,0,Risk curve,70 days
+58,0,Risk curve,70 days
+58.1,0,Risk curve,70 days
+58.2,0,Risk curve,70 days
+58.3,0,Risk curve,70 days
+58.4,0,Risk curve,70 days
+58.5,0,Risk curve,70 days
+58.6,0,Risk curve,70 days
+58.7,0,Risk curve,70 days
+58.8,0,Risk curve,70 days
+58.9,0,Risk curve,70 days
+59,0,Risk curve,70 days
+59.1,0,Risk curve,70 days
+59.2,0,Risk curve,70 days
+59.3,0,Risk curve,70 days
+59.4,0,Risk curve,70 days
+59.5,0,Risk curve,70 days
+59.6,0,Risk curve,70 days
+59.7,0,Risk curve,70 days
+59.8,0,Risk curve,70 days
+59.9,0,Risk curve,70 days
+60,0,Risk curve,70 days
+60.1,0,Risk curve,70 days
+60.2,0,Risk curve,70 days
+60.3,0,Risk curve,70 days
+60.4,0,Risk curve,70 days
+60.5,0,Risk curve,70 days
+60.6,0,Risk curve,70 days
+60.7,0,Risk curve,70 days
+60.8,0,Risk curve,70 days
+60.9,0,Risk curve,70 days
+61,0,Risk curve,70 days
+61.1,0,Risk curve,70 days
+61.2,0,Risk curve,70 days
+61.3,0,Risk curve,70 days
+61.4,0,Risk curve,70 days
+61.5,0,Risk curve,70 days
+61.6,0,Risk curve,70 days
+61.7,0,Risk curve,70 days
+61.8,0,Risk curve,70 days
+61.9,0,Risk curve,70 days
+62,0,Risk curve,70 days
+62.1,0,Risk curve,70 days
+62.2,0,Risk curve,70 days
+62.3,0,Risk curve,70 days
+62.4,0,Risk curve,70 days
+62.5,0,Risk curve,70 days
+62.6,0,Risk curve,70 days
+62.7,0,Risk curve,70 days
+62.8,0,Risk curve,70 days
+62.9,0,Risk curve,70 days
+63,0,Risk curve,70 days
+63.1,0,Risk curve,70 days
+63.2,0,Risk curve,70 days
+63.3,0,Risk curve,70 days
+63.4,0,Risk curve,70 days
+63.5,0,Risk curve,70 days
+63.6,0,Risk curve,70 days
+63.7,0,Risk curve,70 days
+63.8,0,Risk curve,70 days
+63.9,0,Risk curve,70 days
+64,0,Risk curve,70 days
+64.1,0,Risk curve,70 days
+64.2,0,Risk curve,70 days
+64.3,0,Risk curve,70 days
+64.4,0,Risk curve,70 days
+64.5,0,Risk curve,70 days
+64.6,0,Risk curve,70 days
+64.7,0,Risk curve,70 days
+64.8,0,Risk curve,70 days
+64.9,0,Risk curve,70 days
+65,0,Risk curve,70 days
+65.1,0,Risk curve,70 days
+65.2,0,Risk curve,70 days
+65.3,0,Risk curve,70 days
+65.4,0,Risk curve,70 days
+65.5,0,Risk curve,70 days
+65.6,0,Risk curve,70 days
+65.7,0,Risk curve,70 days
+65.8,0,Risk curve,70 days
+65.9,0,Risk curve,70 days
+66,0,Risk curve,70 days
+66.1,0,Risk curve,70 days
+66.2,0,Risk curve,70 days
+66.3,0,Risk curve,70 days
+66.4,0,Risk curve,70 days
+66.5,0,Risk curve,70 days
+66.6,0,Risk curve,70 days
+66.7,0,Risk curve,70 days
+66.8,0,Risk curve,70 days
+66.9,0,Risk curve,70 days
+67,0,Risk curve,70 days
+67.1,0,Risk curve,70 days
+67.2,0,Risk curve,70 days
+67.3,0,Risk curve,70 days
+67.4,0,Risk curve,70 days
+67.5,0,Risk curve,70 days
+67.6,0,Risk curve,70 days
+67.7,0,Risk curve,70 days
+67.8,0,Risk curve,70 days
+67.9,0,Risk curve,70 days
+68,0,Risk curve,70 days
+68.1,0,Risk curve,70 days
+68.2,0,Risk curve,70 days
+68.3,0,Risk curve,70 days
+68.4,0,Risk curve,70 days
+68.5,0,Risk curve,70 days
+68.6,0,Risk curve,70 days
+68.7,0,Risk curve,70 days
+68.8,0,Risk curve,70 days
+68.9,0,Risk curve,70 days
+69,0,Risk curve,70 days
+69.1,0,Risk curve,70 days
+69.2,0,Risk curve,70 days
+69.3,0,Risk curve,70 days
+69.4,0,Risk curve,70 days
+69.5,0,Risk curve,70 days
+69.6,0,Risk curve,70 days
+69.7,0,Risk curve,70 days
+69.8,0,Risk curve,70 days
+69.9,0,Risk curve,70 days
+70,0,Risk curve,70 days
+70.1,0,Risk curve,70 days
+70.2,0,Risk curve,70 days
+70.3,0,Risk curve,70 days
+70.4,0,Risk curve,70 days
+70.5,0,Risk curve,70 days
+70.6,0,Risk curve,70 days
+70.7,0,Risk curve,70 days
+70.8,0,Risk curve,70 days
+70.9,0,Risk curve,70 days
+71,0,Risk curve,70 days
+71.1,0,Risk curve,70 days
+71.2,0,Risk curve,70 days
+71.3,0,Risk curve,70 days
+71.4,0,Risk curve,70 days
+71.5,0,Risk curve,70 days
+71.6,0,Risk curve,70 days
+71.7,0,Risk curve,70 days
+71.8,0,Risk curve,70 days
+71.9,0,Risk curve,70 days
+72,0,Risk curve,70 days
+72.1,0,Risk curve,70 days
+72.2,0,Risk curve,70 days
+72.3,0,Risk curve,70 days
+72.4,0,Risk curve,70 days
+72.5,0,Risk curve,70 days
+72.6,0,Risk curve,70 days
+72.7,0,Risk curve,70 days
+72.8,0,Risk curve,70 days
+72.9,0,Risk curve,70 days
+73,0,Risk curve,70 days
+73.1,0,Risk curve,70 days
+73.2,0,Risk curve,70 days
+73.3,0,Risk curve,70 days
+73.4,0,Risk curve,70 days
+73.5,0,Risk curve,70 days
+73.6,0,Risk curve,70 days
+73.7,0,Risk curve,70 days
+73.8,0,Risk curve,70 days
+73.9,0,Risk curve,70 days
+74,0,Risk curve,70 days
+74.1,0,Risk curve,70 days
+74.2,0,Risk curve,70 days
+74.3,0,Risk curve,70 days
+74.4,0,Risk curve,70 days
+74.5,0,Risk curve,70 days
+74.6,0,Risk curve,70 days
+74.7,0,Risk curve,70 days
+74.8,0,Risk curve,70 days
+74.9,0,Risk curve,70 days
+75,0,Risk curve,70 days
+75.1,0,Risk curve,70 days
+75.2,0,Risk curve,70 days
+75.3,0,Risk curve,70 days
+75.4,0,Risk curve,70 days
+75.5,0,Risk curve,70 days
+75.6,0,Risk curve,70 days
+75.7,0,Risk curve,70 days
+75.8,0,Risk curve,70 days
+75.9,0,Risk curve,70 days
+76,0,Risk curve,70 days
+76.1,0,Risk curve,70 days
+76.2,0,Risk curve,70 days
+76.3,0,Risk curve,70 days
+76.4,0,Risk curve,70 days
+76.5,0,Risk curve,70 days
+76.6,0,Risk curve,70 days
+76.7,0,Risk curve,70 days
+76.8,0,Risk curve,70 days
+76.9,0,Risk curve,70 days
+77,0,Risk curve,70 days
+77.1,0,Risk curve,70 days
+77.2,0,Risk curve,70 days
+77.3,0,Risk curve,70 days
+77.4,0,Risk curve,70 days
+77.5,0,Risk curve,70 days
+77.6,0,Risk curve,70 days
+77.7,0,Risk curve,70 days
+77.8,0,Risk curve,70 days
+77.9,0,Risk curve,70 days
+78,0,Risk curve,70 days
+78.1,0,Risk curve,70 days
+78.2,0,Risk curve,70 days
+78.3,0,Risk curve,70 days
+78.4,0,Risk curve,70 days
+78.5,0,Risk curve,70 days
+78.6,0,Risk curve,70 days
+78.7,0,Risk curve,70 days
+78.8,0,Risk curve,70 days
+78.9,0,Risk curve,70 days
+79,0,Risk curve,70 days
+79.1,0,Risk curve,70 days
+79.2,0,Risk curve,70 days
+79.3,0,Risk curve,70 days
+79.4,0,Risk curve,70 days
+79.5,0,Risk curve,70 days
+79.6,0,Risk curve,70 days
+79.7,0,Risk curve,70 days
+79.8,0,Risk curve,70 days
+79.9,0,Risk curve,70 days
+80,0,Risk curve,70 days
+80.1,0,Risk curve,70 days
+80.2,0,Risk curve,70 days
+80.3,0,Risk curve,70 days
+80.4,0,Risk curve,70 days
+80.5,0,Risk curve,70 days
+80.6,0,Risk curve,70 days
+80.7,0,Risk curve,70 days
+80.8,0,Risk curve,70 days
+80.9,0,Risk curve,70 days
+81,0,Risk curve,70 days
+81.1,0,Risk curve,70 days
+81.2,0,Risk curve,70 days
+81.3,0,Risk curve,70 days
+81.4,0,Risk curve,70 days
+81.5,0,Risk curve,70 days
+81.6,0,Risk curve,70 days
+81.7,0,Risk curve,70 days
+81.8,0,Risk curve,70 days
+81.9,0,Risk curve,70 days
+82,0,Risk curve,70 days
+82.1,0,Risk curve,70 days
+82.2,0,Risk curve,70 days
+82.3,0,Risk curve,70 days
+82.4,0,Risk curve,70 days
+82.5,0,Risk curve,70 days
+82.6,0,Risk curve,70 days
+82.7,0,Risk curve,70 days
+82.8,0,Risk curve,70 days
+82.9,0,Risk curve,70 days
+83,0,Risk curve,70 days
+83.1,0,Risk curve,70 days
+83.2,0,Risk curve,70 days
+83.3,0,Risk curve,70 days
+83.4,0,Risk curve,70 days
+83.5,0,Risk curve,70 days
+83.6,0,Risk curve,70 days
+83.7,0,Risk curve,70 days
+83.8,0,Risk curve,70 days
+83.9,0,Risk curve,70 days
+84,0,Risk curve,70 days
+84.1,0,Risk curve,70 days
+84.2,0,Risk curve,70 days
+84.3,0,Risk curve,70 days
+84.4,0,Risk curve,70 days
+84.5,0,Risk curve,70 days
+84.6,0,Risk curve,70 days
+84.7,0,Risk curve,70 days
+84.8,0,Risk curve,70 days
+84.9,0,Risk curve,70 days
+85,0,Risk curve,70 days
+85.1,0,Risk curve,70 days
+85.2,0,Risk curve,70 days
+85.3,0,Risk curve,70 days
+85.4,0,Risk curve,70 days
+85.5,0,Risk curve,70 days
+85.6,0,Risk curve,70 days
+85.7,0,Risk curve,70 days
+85.8,0,Risk curve,70 days
+85.9,0,Risk curve,70 days
+86,0,Risk curve,70 days
+86.1,0,Risk curve,70 days
+86.2,0,Risk curve,70 days
+86.3,0,Risk curve,70 days
+86.4,0,Risk curve,70 days
+86.5,0,Risk curve,70 days
+86.6,0,Risk curve,70 days
+86.7,0,Risk curve,70 days
+86.8,0,Risk curve,70 days
+86.9,0,Risk curve,70 days
+87,0,Risk curve,70 days
+87.1,0,Risk curve,70 days
+87.2,0,Risk curve,70 days
+87.3,0,Risk curve,70 days
+87.4,0,Risk curve,70 days
+87.5,0,Risk curve,70 days
+87.6,0,Risk curve,70 days
+87.7,0,Risk curve,70 days
+87.8,0,Risk curve,70 days
+87.9,0,Risk curve,70 days
+88,0,Risk curve,70 days
+88.1,0,Risk curve,70 days
+88.2,0,Risk curve,70 days
+88.3,0,Risk curve,70 days
+88.4,0,Risk curve,70 days
+88.5,0,Risk curve,70 days
+88.6,0,Risk curve,70 days
+88.7,0,Risk curve,70 days
+88.8,0,Risk curve,70 days
+88.9,0,Risk curve,70 days
+89,0,Risk curve,70 days
+89.1,0,Risk curve,70 days
+89.2,0,Risk curve,70 days
+89.3,0,Risk curve,70 days
+89.4,0,Risk curve,70 days
+89.5,0,Risk curve,70 days
+89.6,0,Risk curve,70 days
+89.7,0,Risk curve,70 days
+89.8,0,Risk curve,70 days
+89.9,0,Risk curve,70 days
+90,0,Risk curve,70 days
+90.1,0,Risk curve,70 days
+90.2,0,Risk curve,70 days
+90.3,0,Risk curve,70 days
+90.4,0,Risk curve,70 days
+90.5,0,Risk curve,70 days
+90.6,0,Risk curve,70 days
+90.7,0,Risk curve,70 days
+90.8,0,Risk curve,70 days
+90.9,0,Risk curve,70 days
+91,0,Risk curve,70 days
+91.1,0,Risk curve,70 days
+91.2,0,Risk curve,70 days
+91.3,0,Risk curve,70 days
+91.4,0,Risk curve,70 days
+91.5,0,Risk curve,70 days
+91.6,0,Risk curve,70 days
+91.7,0,Risk curve,70 days
+91.8,0,Risk curve,70 days
+91.9,0,Risk curve,70 days
+92,0,Risk curve,70 days
+92.1,0,Risk curve,70 days
+92.2,0,Risk curve,70 days
+92.3,0,Risk curve,70 days
+92.4,0,Risk curve,70 days
+92.5,0,Risk curve,70 days
+92.6,0,Risk curve,70 days
+92.7,0,Risk curve,70 days
+92.8,0,Risk curve,70 days
+92.9,0,Risk curve,70 days
+93,0,Risk curve,70 days
+93.1,0,Risk curve,70 days
+93.2,0,Risk curve,70 days
+93.3,0,Risk curve,70 days
+93.4,0,Risk curve,70 days
+93.5,0,Risk curve,70 days
+93.6,0,Risk curve,70 days
+93.7,0,Risk curve,70 days
+93.8,0,Risk curve,70 days
+93.9,0,Risk curve,70 days
+94,0,Risk curve,70 days
+94.1,0,Risk curve,70 days
+94.2,0,Risk curve,70 days
+94.3,0,Risk curve,70 days
+94.4,0,Risk curve,70 days
+94.5,0,Risk curve,70 days
+94.6,0,Risk curve,70 days
+94.7,0,Risk curve,70 days
+94.8,0,Risk curve,70 days
+94.9,0,Risk curve,70 days
+95,0,Risk curve,70 days
+95.1,0,Risk curve,70 days
+95.2,0,Risk curve,70 days
+95.3,0,Risk curve,70 days
+95.4,0,Risk curve,70 days
+95.5,0,Risk curve,70 days
+95.6,0,Risk curve,70 days
+95.7,0,Risk curve,70 days
+95.8,0,Risk curve,70 days
+95.9,0,Risk curve,70 days
+96,0,Risk curve,70 days
+96.1,0,Risk curve,70 days
+96.2,0,Risk curve,70 days
+96.3,0,Risk curve,70 days
+96.4,0,Risk curve,70 days
+96.5,0,Risk curve,70 days
+96.6,0,Risk curve,70 days
+96.7,0,Risk curve,70 days
+96.8,0,Risk curve,70 days
+96.9,0,Risk curve,70 days
+97,0,Risk curve,70 days
+97.1,0,Risk curve,70 days
+97.2,0,Risk curve,70 days
+97.3,0,Risk curve,70 days
+97.4,0,Risk curve,70 days
+97.5,0,Risk curve,70 days
+97.6,0,Risk curve,70 days
+97.7,0,Risk curve,70 days
+97.8,0,Risk curve,70 days
+97.9,0,Risk curve,70 days
+98,0,Risk curve,70 days
+98.1,0,Risk curve,70 days
+98.2,0,Risk curve,70 days
+98.3,0,Risk curve,70 days
+98.4,0,Risk curve,70 days
+98.5,0,Risk curve,70 days
+98.6,0,Risk curve,70 days
+98.7,0,Risk curve,70 days
+98.8,0,Risk curve,70 days
+98.9,0,Risk curve,70 days
+99,0,Risk curve,70 days
+99.1,0,Risk curve,70 days
+99.2,0,Risk curve,70 days
+99.3,0,Risk curve,70 days
+99.4,0,Risk curve,70 days
+99.5,0,Risk curve,70 days
+99.6,0,Risk curve,70 days
+99.7,0,Risk curve,70 days
+99.8,0,Risk curve,70 days
+99.9,0,Risk curve,70 days
+99.99,0,Risk curve,70 days
+99.999,0,Risk curve,70 days
+99.9999,0,Risk curve,70 days
+2,100,Low-intermediate risk boundary,70 days
+2.25,88.88888889,Low-intermediate risk boundary,70 days
+2.5,80,Low-intermediate risk boundary,70 days
+2.75,72.72727273,Low-intermediate risk boundary,70 days
+3,66.66666667,Low-intermediate risk boundary,70 days
+3.25,61.53846154,Low-intermediate risk boundary,70 days
+3.5,57.14285714,Low-intermediate risk boundary,70 days
+3.75,53.33333333,Low-intermediate risk boundary,70 days
+4,50,Low-intermediate risk boundary,70 days
+4.25,47.05882353,Low-intermediate risk boundary,70 days
+4.5,44.44444444,Low-intermediate risk boundary,70 days
+4.75,42.10526316,Low-intermediate risk boundary,70 days
+5,40,Low-intermediate risk boundary,70 days
+6,33.33333333,Low-intermediate risk boundary,70 days
+7,28.57142857,Low-intermediate risk boundary,70 days
+8,25,Low-intermediate risk boundary,70 days
+9,22.22222222,Low-intermediate risk boundary,70 days
+10,20,Low-intermediate risk boundary,70 days
+11,18.18181818,Low-intermediate risk boundary,70 days
+12,16.66666667,Low-intermediate risk boundary,70 days
+13,15.38461538,Low-intermediate risk boundary,70 days
+14,14.28571429,Low-intermediate risk boundary,70 days
+15,13.33333333,Low-intermediate risk boundary,70 days
+16,12.5,Low-intermediate risk boundary,70 days
+17,11.76470588,Low-intermediate risk boundary,70 days
+18,11.11111111,Low-intermediate risk boundary,70 days
+19,10.52631579,Low-intermediate risk boundary,70 days
+20,10,Low-intermediate risk boundary,70 days
+21,9.523809524,Low-intermediate risk boundary,70 days
+22,9.090909091,Low-intermediate risk boundary,70 days
+23,8.695652174,Low-intermediate risk boundary,70 days
+24,8.333333333,Low-intermediate risk boundary,70 days
+25,8,Low-intermediate risk boundary,70 days
+26,7.692307692,Low-intermediate risk boundary,70 days
+27,7.407407407,Low-intermediate risk boundary,70 days
+28,7.142857143,Low-intermediate risk boundary,70 days
+29,6.896551724,Low-intermediate risk boundary,70 days
+30,6.666666667,Low-intermediate risk boundary,70 days
+31,6.451612903,Low-intermediate risk boundary,70 days
+32,6.25,Low-intermediate risk boundary,70 days
+33,6.060606061,Low-intermediate risk boundary,70 days
+34,5.882352941,Low-intermediate risk boundary,70 days
+35,5.714285714,Low-intermediate risk boundary,70 days
+36,5.555555556,Low-intermediate risk boundary,70 days
+37,5.405405405,Low-intermediate risk boundary,70 days
+38,5.263157895,Low-intermediate risk boundary,70 days
+39,5.128205128,Low-intermediate risk boundary,70 days
+40,5,Low-intermediate risk boundary,70 days
+41,4.87804878,Low-intermediate risk boundary,70 days
+42,4.761904762,Low-intermediate risk boundary,70 days
+43,4.651162791,Low-intermediate risk boundary,70 days
+44,4.545454545,Low-intermediate risk boundary,70 days
+45,4.444444444,Low-intermediate risk boundary,70 days
+46,4.347826087,Low-intermediate risk boundary,70 days
+47,4.255319149,Low-intermediate risk boundary,70 days
+48,4.166666667,Low-intermediate risk boundary,70 days
+49,4.081632653,Low-intermediate risk boundary,70 days
+50,4,Low-intermediate risk boundary,70 days
+51,3.921568627,Low-intermediate risk boundary,70 days
+52,3.846153846,Low-intermediate risk boundary,70 days
+53,3.773584906,Low-intermediate risk boundary,70 days
+54,3.703703704,Low-intermediate risk boundary,70 days
+55,3.636363636,Low-intermediate risk boundary,70 days
+56,3.571428571,Low-intermediate risk boundary,70 days
+57,3.50877193,Low-intermediate risk boundary,70 days
+58,3.448275862,Low-intermediate risk boundary,70 days
+59,3.389830508,Low-intermediate risk boundary,70 days
+60,3.333333333,Low-intermediate risk boundary,70 days
+61,3.278688525,Low-intermediate risk boundary,70 days
+62,3.225806452,Low-intermediate risk boundary,70 days
+63,3.174603175,Low-intermediate risk boundary,70 days
+64,3.125,Low-intermediate risk boundary,70 days
+65,3.076923077,Low-intermediate risk boundary,70 days
+66,3.03030303,Low-intermediate risk boundary,70 days
+67,2.985074627,Low-intermediate risk boundary,70 days
+68,2.941176471,Low-intermediate risk boundary,70 days
+69,2.898550725,Low-intermediate risk boundary,70 days
+70,2.857142857,Low-intermediate risk boundary,70 days
+71,2.816901408,Low-intermediate risk boundary,70 days
+72,2.777777778,Low-intermediate risk boundary,70 days
+73,2.739726027,Low-intermediate risk boundary,70 days
+74,2.702702703,Low-intermediate risk boundary,70 days
+75,2.666666667,Low-intermediate risk boundary,70 days
+76,2.631578947,Low-intermediate risk boundary,70 days
+77,2.597402597,Low-intermediate risk boundary,70 days
+78,2.564102564,Low-intermediate risk boundary,70 days
+79,2.53164557,Low-intermediate risk boundary,70 days
+80,2.5,Low-intermediate risk boundary,70 days
+81,2.469135802,Low-intermediate risk boundary,70 days
+82,2.43902439,Low-intermediate risk boundary,70 days
+83,2.409638554,Low-intermediate risk boundary,70 days
+84,2.380952381,Low-intermediate risk boundary,70 days
+85,2.352941176,Low-intermediate risk boundary,70 days
+86,2.325581395,Low-intermediate risk boundary,70 days
+87,2.298850575,Low-intermediate risk boundary,70 days
+88,2.272727273,Low-intermediate risk boundary,70 days
+89,2.247191011,Low-intermediate risk boundary,70 days
+90,2.222222222,Low-intermediate risk boundary,70 days
+91,2.197802198,Low-intermediate risk boundary,70 days
+92,2.173913043,Low-intermediate risk boundary,70 days
+93,2.150537634,Low-intermediate risk boundary,70 days
+94,2.127659574,Low-intermediate risk boundary,70 days
+95,2.105263158,Low-intermediate risk boundary,70 days
+96,2.083333333,Low-intermediate risk boundary,70 days
+97,2.06185567,Low-intermediate risk boundary,70 days
+98,2.040816327,Low-intermediate risk boundary,70 days
+99,2.02020202,Low-intermediate risk boundary,70 days
+100,2,Low-intermediate risk boundary,70 days
+10,100,Intermediate-high risk boundary,70 days
+11,90.90909091,Intermediate-high risk boundary,70 days
+12,83.33333333,Intermediate-high risk boundary,70 days
+13,76.92307692,Intermediate-high risk boundary,70 days
+14,71.42857143,Intermediate-high risk boundary,70 days
+15,66.66666667,Intermediate-high risk boundary,70 days
+16,62.5,Intermediate-high risk boundary,70 days
+17,58.82352941,Intermediate-high risk boundary,70 days
+18,55.55555556,Intermediate-high risk boundary,70 days
+19,52.63157895,Intermediate-high risk boundary,70 days
+20,50,Intermediate-high risk boundary,70 days
+21,47.61904762,Intermediate-high risk boundary,70 days
+22,45.45454545,Intermediate-high risk boundary,70 days
+23,43.47826087,Intermediate-high risk boundary,70 days
+24,41.66666667,Intermediate-high risk boundary,70 days
+25,40,Intermediate-high risk boundary,70 days
+26,38.46153846,Intermediate-high risk boundary,70 days
+27,37.03703704,Intermediate-high risk boundary,70 days
+28,35.71428571,Intermediate-high risk boundary,70 days
+29,34.48275862,Intermediate-high risk boundary,70 days
+30,33.33333333,Intermediate-high risk boundary,70 days
+31,32.25806452,Intermediate-high risk boundary,70 days
+32,31.25,Intermediate-high risk boundary,70 days
+33,30.3030303,Intermediate-high risk boundary,70 days
+34,29.41176471,Intermediate-high risk boundary,70 days
+35,28.57142857,Intermediate-high risk boundary,70 days
+36,27.77777778,Intermediate-high risk boundary,70 days
+37,27.02702703,Intermediate-high risk boundary,70 days
+38,26.31578947,Intermediate-high risk boundary,70 days
+39,25.64102564,Intermediate-high risk boundary,70 days
+40,25,Intermediate-high risk boundary,70 days
+41,24.3902439,Intermediate-high risk boundary,70 days
+42,23.80952381,Intermediate-high risk boundary,70 days
+43,23.25581395,Intermediate-high risk boundary,70 days
+44,22.72727273,Intermediate-high risk boundary,70 days
+45,22.22222222,Intermediate-high risk boundary,70 days
+46,21.73913043,Intermediate-high risk boundary,70 days
+47,21.27659574,Intermediate-high risk boundary,70 days
+48,20.83333333,Intermediate-high risk boundary,70 days
+49,20.40816327,Intermediate-high risk boundary,70 days
+50,20,Intermediate-high risk boundary,70 days
+51,19.60784314,Intermediate-high risk boundary,70 days
+52,19.23076923,Intermediate-high risk boundary,70 days
+53,18.86792453,Intermediate-high risk boundary,70 days
+54,18.51851852,Intermediate-high risk boundary,70 days
+55,18.18181818,Intermediate-high risk boundary,70 days
+56,17.85714286,Intermediate-high risk boundary,70 days
+57,17.54385965,Intermediate-high risk boundary,70 days
+58,17.24137931,Intermediate-high risk boundary,70 days
+59,16.94915254,Intermediate-high risk boundary,70 days
+60,16.66666667,Intermediate-high risk boundary,70 days
+61,16.39344262,Intermediate-high risk boundary,70 days
+62,16.12903226,Intermediate-high risk boundary,70 days
+63,15.87301587,Intermediate-high risk boundary,70 days
+64,15.625,Intermediate-high risk boundary,70 days
+65,15.38461538,Intermediate-high risk boundary,70 days
+66,15.15151515,Intermediate-high risk boundary,70 days
+67,14.92537313,Intermediate-high risk boundary,70 days
+68,14.70588235,Intermediate-high risk boundary,70 days
+69,14.49275362,Intermediate-high risk boundary,70 days
+70,14.28571429,Intermediate-high risk boundary,70 days
+71,14.08450704,Intermediate-high risk boundary,70 days
+72,13.88888889,Intermediate-high risk boundary,70 days
+73,13.69863014,Intermediate-high risk boundary,70 days
+74,13.51351351,Intermediate-high risk boundary,70 days
+75,13.33333333,Intermediate-high risk boundary,70 days
+76,13.15789474,Intermediate-high risk boundary,70 days
+77,12.98701299,Intermediate-high risk boundary,70 days
+78,12.82051282,Intermediate-high risk boundary,70 days
+79,12.65822785,Intermediate-high risk boundary,70 days
+80,12.5,Intermediate-high risk boundary,70 days
+81,12.34567901,Intermediate-high risk boundary,70 days
+82,12.19512195,Intermediate-high risk boundary,70 days
+83,12.04819277,Intermediate-high risk boundary,70 days
+84,11.9047619,Intermediate-high risk boundary,70 days
+85,11.76470588,Intermediate-high risk boundary,70 days
+86,11.62790698,Intermediate-high risk boundary,70 days
+87,11.49425287,Intermediate-high risk boundary,70 days
+88,11.36363636,Intermediate-high risk boundary,70 days
+89,11.23595506,Intermediate-high risk boundary,70 days
+90,11.11111111,Intermediate-high risk boundary,70 days
+91,10.98901099,Intermediate-high risk boundary,70 days
+92,10.86956522,Intermediate-high risk boundary,70 days
+93,10.75268817,Intermediate-high risk boundary,70 days
+94,10.63829787,Intermediate-high risk boundary,70 days
+95,10.52631579,Intermediate-high risk boundary,70 days
+96,10.41666667,Intermediate-high risk boundary,70 days
+97,10.30927835,Intermediate-high risk boundary,70 days
+98,10.20408163,Intermediate-high risk boundary,70 days
+99,10.1010101,Intermediate-high risk boundary,70 days
+100,10,Intermediate-high risk boundary,70 days
+0.25,100,De minimis-low risk boundary,70 days
+0.5,50,De minimis-low risk boundary,70 days
+0.75,33.33333333,De minimis-low risk boundary,70 days
+1,25,De minimis-low risk boundary,70 days
+1.25,20,De minimis-low risk boundary,70 days
+1.5,16.66666667,De minimis-low risk boundary,70 days
+1.75,14.28571429,De minimis-low risk boundary,70 days
+2,12.5,De minimis-low risk boundary,70 days
+2.25,11.11111111,De minimis-low risk boundary,70 days
+2.5,10,De minimis-low risk boundary,70 days
+2.75,9.090909091,De minimis-low risk boundary,70 days
+3,8.333333333,De minimis-low risk boundary,70 days
+3.25,7.692307692,De minimis-low risk boundary,70 days
+3.5,7.142857143,De minimis-low risk boundary,70 days
+3.75,6.666666667,De minimis-low risk boundary,70 days
+4,6.25,De minimis-low risk boundary,70 days
+4.25,5.882352941,De minimis-low risk boundary,70 days
+4.5,5.555555556,De minimis-low risk boundary,70 days
+4.75,5.263157895,De minimis-low risk boundary,70 days
+5,5,De minimis-low risk boundary,70 days
+6,4.166666667,De minimis-low risk boundary,70 days
+7,3.571428571,De minimis-low risk boundary,70 days
+8,3.125,De minimis-low risk boundary,70 days
+9,2.777777778,De minimis-low risk boundary,70 days
+10,2.5,De minimis-low risk boundary,70 days
+11,2.272727273,De minimis-low risk boundary,70 days
+12,2.083333333,De minimis-low risk boundary,70 days
+13,1.923076923,De minimis-low risk boundary,70 days
+14,1.785714286,De minimis-low risk boundary,70 days
+15,1.666666667,De minimis-low risk boundary,70 days
+16,1.5625,De minimis-low risk boundary,70 days
+17,1.470588235,De minimis-low risk boundary,70 days
+18,1.388888889,De minimis-low risk boundary,70 days
+19,1.315789474,De minimis-low risk boundary,70 days
+20,1.25,De minimis-low risk boundary,70 days
+21,1.19047619,De minimis-low risk boundary,70 days
+22,1.136363636,De minimis-low risk boundary,70 days
+23,1.086956522,De minimis-low risk boundary,70 days
+24,1.041666667,De minimis-low risk boundary,70 days
+25,1,De minimis-low risk boundary,70 days
+26,0.961538462,De minimis-low risk boundary,70 days
+27,0.925925926,De minimis-low risk boundary,70 days
+28,0.892857143,De minimis-low risk boundary,70 days
+29,0.862068966,De minimis-low risk boundary,70 days
+30,0.833333333,De minimis-low risk boundary,70 days
+31,0.806451613,De minimis-low risk boundary,70 days
+32,0.78125,De minimis-low risk boundary,70 days
+33,0.757575758,De minimis-low risk boundary,70 days
+34,0.735294118,De minimis-low risk boundary,70 days
+35,0.714285714,De minimis-low risk boundary,70 days
+36,0.694444444,De minimis-low risk boundary,70 days
+37,0.675675676,De minimis-low risk boundary,70 days
+38,0.657894737,De minimis-low risk boundary,70 days
+39,0.641025641,De minimis-low risk boundary,70 days
+40,0.625,De minimis-low risk boundary,70 days
+41,0.609756098,De minimis-low risk boundary,70 days
+42,0.595238095,De minimis-low risk boundary,70 days
+43,0.581395349,De minimis-low risk boundary,70 days
+44,0.568181818,De minimis-low risk boundary,70 days
+45,0.555555556,De minimis-low risk boundary,70 days
+46,0.543478261,De minimis-low risk boundary,70 days
+47,0.531914894,De minimis-low risk boundary,70 days
+48,0.520833333,De minimis-low risk boundary,70 days
+49,0.510204082,De minimis-low risk boundary,70 days
+50,0.5,De minimis-low risk boundary,70 days
+51,0.490196078,De minimis-low risk boundary,70 days
+52,0.480769231,De minimis-low risk boundary,70 days
+53,0.471698113,De minimis-low risk boundary,70 days
+54,0.462962963,De minimis-low risk boundary,70 days
+55,0.454545455,De minimis-low risk boundary,70 days
+56,0.446428571,De minimis-low risk boundary,70 days
+57,0.438596491,De minimis-low risk boundary,70 days
+58,0.431034483,De minimis-low risk boundary,70 days
+59,0.423728814,De minimis-low risk boundary,70 days
+60,0.416666667,De minimis-low risk boundary,70 days
+61,0.409836066,De minimis-low risk boundary,70 days
+62,0.403225806,De minimis-low risk boundary,70 days
+63,0.396825397,De minimis-low risk boundary,70 days
+64,0.390625,De minimis-low risk boundary,70 days
+65,0.384615385,De minimis-low risk boundary,70 days
+66,0.378787879,De minimis-low risk boundary,70 days
+67,0.373134328,De minimis-low risk boundary,70 days
+68,0.367647059,De minimis-low risk boundary,70 days
+69,0.362318841,De minimis-low risk boundary,70 days
+70,0.357142857,De minimis-low risk boundary,70 days
+71,0.352112676,De minimis-low risk boundary,70 days
+72,0.347222222,De minimis-low risk boundary,70 days
+73,0.342465753,De minimis-low risk boundary,70 days
+74,0.337837838,De minimis-low risk boundary,70 days
+75,0.333333333,De minimis-low risk boundary,70 days
+76,0.328947368,De minimis-low risk boundary,70 days
+77,0.324675325,De minimis-low risk boundary,70 days
+78,0.320512821,De minimis-low risk boundary,70 days
+79,0.316455696,De minimis-low risk boundary,70 days
+80,0.3125,De minimis-low risk boundary,70 days
+81,0.308641975,De minimis-low risk boundary,70 days
+82,0.304878049,De minimis-low risk boundary,70 days
+83,0.301204819,De minimis-low risk boundary,70 days
+84,0.297619048,De minimis-low risk boundary,70 days
+85,0.294117647,De minimis-low risk boundary,70 days
+86,0.290697674,De minimis-low risk boundary,70 days
+87,0.287356322,De minimis-low risk boundary,70 days
+88,0.284090909,De minimis-low risk boundary,70 days
+89,0.280898876,De minimis-low risk boundary,70 days
+90,0.277777778,De minimis-low risk boundary,70 days
+91,0.274725275,De minimis-low risk boundary,70 days
+92,0.27173913,De minimis-low risk boundary,70 days
+93,0.268817204,De minimis-low risk boundary,70 days
+94,0.265957447,De minimis-low risk boundary,70 days
+95,0.263157895,De minimis-low risk boundary,70 days
+96,0.260416667,De minimis-low risk boundary,70 days
+97,0.257731959,De minimis-low risk boundary,70 days
+98,0.255102041,De minimis-low risk boundary,70 days
+99,0.252525253,De minimis-low risk boundary,70 days
+100,0.25,De minimis-low risk boundary,70 days

@@ -1,0 +1,100 @@
+﻿ai,group,endpoint,sign,result,units,study,species
+Pinoxaden,DEN,LC50,=,12.3,mg/L,Fish acute,Freshwater (cold)
+Clethodim,DIM,LC50,=,24.4,mg/L,Fish acute,Freshwater (cold)
+Cycloxydim,DIM,LC50,=,220,mg/L,Fish acute,Freshwater (cold)
+Sethoxydim,DIM,LC50,=,170,mg/L,Fish acute,Freshwater (cold)
+Tralkoxydim,DIM,LC50,>,7.5,mg/L,Fish acute,Freshwater (cold)
+Clodinafop-propargyl,FOP,LC50,=,0.3,mg/L,Fish acute,Freshwater (cold)
+Cyhalofop-butyl,FOP,LC50,>,0.49,mg/L,Fish acute,Freshwater (cold)
+Diclofop-methyl,FOP,LC50,=,0.17,mg/L,Fish acute,Freshwater (cold)
+Fenoxaprop-P-ethyl,FOP,LC50,=,0.46,mg/L,Fish acute,Freshwater (cold)
+Fluazifop-P-butyl,FOP,LC50,=,1.41,mg/L,Fish acute,Freshwater (cold)
+Quizalofop-P-ethyl,FOP,LC50,=,0.72,mg/L,Fish acute,Freshwater (cold)
+Spirodiclofen,TA/TAD,LC50,>,0.035,mg/L,Fish acute,Freshwater (cold)
+Spiromesifen,TA/TAD,LC50,=,0.017,mg/L,Fish acute,Freshwater (cold)
+Spirotetramat,TA/TAD,LC50,=,2.54,mg/L,Fish acute,Freshwater (cold)
+Pinoxaden,DEN,LC50,=,20,mg/L,Fish acute,Freshwater (warm)
+Clethodim,DIM,LC50,>,33,mg/L,Fish acute,Freshwater (warm)
+Sethoxydim,DIM,LC50,=,265,mg/L,Fish acute,Freshwater (warm)
+Tepraloxydim,DIM,LC50,=,78.2,mg/L,Fish acute,Freshwater (warm)
+Tralkoxydim,DIM,LC50,>,7.5,mg/L,Fish acute,Freshwater (warm)
+Clodinafop-propargyl,FOP,LC50,=,0.24,mg/L,Fish acute,Freshwater (warm)
+Cyhalofop-butyl,FOP,LC50,=,0.76,mg/L,Fish acute,Freshwater (warm)
+Diclofop-methyl,FOP,LC50,=,0.15,mg/L,Fish acute,Freshwater (warm)
+Fenoxaprop-P-ethyl,FOP,LC50,=,0.31,mg/L,Fish acute,Freshwater (warm)
+Fluazifop-P-butyl,FOP,LC50,=,0.53,mg/L,Fish acute,Freshwater (warm)
+Propaquizafop,FOP,LC50,=,0.19,mg/L,Fish acute,Freshwater (warm)
+Spiromesifen,TA/TAD,LC50,>,0.034,mg/L,Fish acute,Freshwater (warm)
+Spirotetramat,TA/TAD,LC50,=,2.2,mg/L,Fish acute,Freshwater (warm)
+Pinoxaden,DEN,LC50,>,16,mg/L,Fish acute,Saltwater
+Clethodim,DIM,LC50,>,124,mg/L,Fish acute,Saltwater
+Sethoxydim,DIM,LC50,>,145,mg/L,Fish acute,Saltwater
+Cyhalofop-butyl,FOP,LC50,=,0.83,mg/L,Fish acute,Saltwater
+Fenoxaprop-P-ethyl,FOP,LC50,>,1,mg/L,Fish acute,Saltwater
+Spirodiclofen,TA/TAD,LC50,>,0.035,mg/L,Fish acute,Saltwater
+Spiromesifen,TA/TAD,LC50,>,0.046,mg/L,Fish acute,Saltwater
+Spirotetramat,TA/TAD,LC50,=,1.96,mg/L,Fish acute,Saltwater
+Pinoxaden,DEN,NOAEC,=,0.96,mg/L,Fish early life stage,Freshwater
+Clethodim,DIM,NOAEC,=,0.01,mg/L,Fish early life stage,Freshwater
+Cycloxydim,DIM,NOAEC,=,21.5,mg/L,Fish early life stage,Freshwater
+Sethoxydim,DIM,NOAEC,=,4.86,mg/L,Fish early life stage,Freshwater
+Tepraloxydim,DIM,NOAEC,=,10,mg/L,Fish early life stage,Freshwater
+Clodinafop-propargyl,FOP,NOAEC,=,0.014,mg/L,Fish early life stage,Freshwater
+Cyhalofop-butyl,FOP,NOAEC,=,0.134,mg/L,Fish early life stage,Freshwater
+Diclofop-methyl,FOP,NOAEC,=,0.022,mg/L,Fish early life stage,Freshwater
+Diclofop-methyl,FOP,NOAEC,=,0.0075,mg/L,Fish full life cycle,Freshwater
+Fenoxaprop-P-ethyl,FOP,NOAEC,=,0.044,mg/L,Fish early life stage,Freshwater
+Fluazifop-P-butyl,FOP,NOAEC,=,0.238,mg/L,Fish early life stage,Freshwater
+Propaquizafop,FOP,NOAEC,=,0.019,mg/L,Fish early life stage,Freshwater
+Quizalofop-P-ethyl,FOP,NOAEC,=,0.01,mg/L,Fish early life stage,Freshwater
+Spirodiclofen,TA/TAD,NOAEC,=,0.00195,mg/L,Fish early life stage,Freshwater
+Spiromesifen,TA/TAD,NOAEC,=,0.00473,mg/L,Fish early life stage,Freshwater
+Spiromesifen,TA/TAD,NOAEC,=,0.0015,mg/L,Fish full life cycle,Freshwater
+Spirotetramat,TA/TAD,NOAEC,=,0.534,mg/L,Fish early life stage,Freshwater
+Fenoxaprop-P-ethyl,FOP,NOAEC,=,0.088,mg/L,Fish early life stage,Saltwater
+Fluazifop-P-butyl,FOP,NOAEC,=,3.1,mg/L,Fish early life stage,Saltwater
+Quizalofop-P-ethyl,FOP,NOAEC,=,0.083,mg/L,Fish early life stage,Saltwater
+Spiromesifen,TA/TAD,NOAEC,=,0.0106,mg/L,Fish early life stage,Saltwater
+Pinoxaden,DEN,NOAEC,=,250,mg/kg-diet,Mammalian chronic,
+Clethodim,DIM,NOAEC,=,500,mg/kg-diet,Mammalian chronic,
+Cycloxydim,DIM,NOAEC,=,400,mg/kg-diet,Mammalian chronic,
+Sethoxydim,DIM,NOAEC,=,600,mg/kg-diet,Mammalian chronic,
+Tepraloxydim,DIM,NOAEC,=,500,mg/kg-diet,Mammalian chronic,
+Tralkoxydim,DIM,NOAEC,=,200,mg/kg-diet,Mammalian chronic,
+Clodinafop-propargyl,FOP,NOAEC,=,50,mg/kg-diet,Mammalian chronic,
+Cyhalofop-butyl,FOP,NOAEC,=,100,mg/kg-diet,Mammalian chronic,
+Diclofop-methyl,FOP,NOAEC,=,30,mg/kg-diet,Mammalian chronic,
+Fenoxaprop-P-ethyl,FOP,NOAEC,=,180,mg/kg-diet,Mammalian chronic,
+Fluazifop-P-butyl,FOP,NOAEC,=,80,mg/kg-diet,Mammalian chronic,
+Propaquizafop,FOP,NOAEC,=,15,mg/kg-diet,Mammalian chronic,
+Quizalofop-P-ethyl,FOP,NOAEC,=,100,mg/kg-diet,Mammalian chronic,
+Spirodiclofen,TA/TAD,NOAEC,=,350,mg/kg-diet,Mammalian chronic,
+Spiromesifen,TA/TAD,NOAEC,=,30,mg/kg-diet,Mammalian chronic,
+Spirotetramat,TA/TAD,NOAEC,=,1000,mg/kg-diet,Mammalian chronic,
+Pinoxaden,DEN,NOAEC,=,107,mg/kg-diet,Avian chronic,Northern bobwhite
+Cycloxydim,DIM,NOAEC,=,65.4,mg/kg-diet,Avian chronic,Northern bobwhite
+Sethoxydim,DIM,NOAEC,=,1000,mg/kg-diet,Avian chronic,Northern bobwhite
+Tralkoxydim,DIM,NOAEC,=,150,mg/kg-diet,Avian chronic,Northern bobwhite
+Clodinafop-propargyl,FOP,NOAEC,=,500,mg/kg-diet,Avian chronic,Northern bobwhite
+Cyhalofop-butyl,FOP,NOAEC,=,805,mg/kg-diet,Avian chronic,Northern bobwhite
+Diclofop-methyl,FOP,NOAEC,=,200,mg/kg-diet,Avian chronic,Northern bobwhite
+Fenoxaprop-P-ethyl,FOP,NOAEC,=,404,mg/kg-diet,Avian chronic,Northern bobwhite
+Fluazifop-P-butyl,FOP,NOAEC,=,843,mg/kg-diet,Avian chronic,Northern bobwhite
+Propaquizafop,FOP,NOAEC,=,250,mg/kg-diet,Avian chronic,Northern bobwhite
+Quizalofop-P-ethyl,FOP,NOAEC,=,1030,mg/kg-diet,Avian chronic,Northern bobwhite
+Spirodiclofen,TA/TAD,NOAEC,=,691,mg/kg-diet,Avian chronic,Northern bobwhite
+Spiromesifen,TA/TAD,NOAEC,=,698,mg/kg-diet,Avian chronic,Northern bobwhite
+Spirotetramat,TA/TAD,NOAEC,<,89,mg/kg-diet,Avian chronic,Northern bobwhite
+Pinoxaden,DEN,NOAEC,=,1050,mg/kg-diet,Avian chronic,Mallard duck
+Clethodim,DIM,NOAEC,=,833,mg/kg-diet,Avian chronic,Mallard duck
+Sethoxydim,DIM,NOAEC,=,466,mg/kg-diet,Avian chronic,Mallard duck
+Tepraloxydim,DIM,NOAEC,=,1000,mg/kg-diet,Avian chronic,Mallard duck
+Tralkoxydim,DIM,NOAEC,=,150,mg/kg-diet,Avian chronic,Mallard duck
+Cyhalofop-butyl,FOP,NOAEC,=,736,mg/kg-diet,Avian chronic,Mallard duck
+Diclofop-methyl,FOP,NOAEC,=,200,mg/kg-diet,Avian chronic,Mallard duck
+Fenoxaprop-P-ethyl,FOP,NOAEC,=,30,mg/kg-diet,Avian chronic,Mallard duck
+Fluazifop-P-butyl,FOP,NOAEC,=,270,mg/kg-diet,Avian chronic,Mallard duck
+Quizalofop-P-ethyl,FOP,NOAEC,<,269,mg/kg-diet,Avian chronic,Mallard duck
+Spirodiclofen,TA/TAD,NOAEC,=,734,mg/kg-diet,Avian chronic,Mallard duck
+Spiromesifen,TA/TAD,NOAEC,=,725,mg/kg-diet,Avian chronic,Mallard duck
+Spirotetramat,TA/TAD,NOAEC,<,28.8,mg/kg-diet,Avian chronic,Mallard duck
