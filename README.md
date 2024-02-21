@@ -1,6 +1,6 @@
 # partner-es
 
-Publicly available data and code from the publication: Developing a modern approach to assess ecological risk from pesticides without unnecessary vertebrate animal testing
+Data and code from the publication: Developing a modern approach to assess ecological risk from pesticides without unnecessary vertebrate animal testing
 
 [partner-es.R](partner-es.R) includes the entire data analysis as an R script
 
