@@ -50,10 +50,6 @@ fish_acute_hc5 <- fish_acute_pred %>%
   filter(percent == 5) %>%
   pull(est)
 
-fish_acute_pred %>%
-  filter(percent == 68) %>%
-  pull(est)
-
 ### Tidy data for plotting
 
 fish_acute_plot <- fish_acute %>%
@@ -185,6 +181,12 @@ rbt_pred <- rbt_daphnia_lm %>%
   predict(., data.frame(daphnia = c(log10(9.6))), interval = "prediction") %>%
   as.double() %>%
   10^.
+
+### Compare estimate with fish acute chemical toxicity distribution
+
+fish_acute_pred %>%
+  filter(percent == 69) %>%
+  pull(est)
 
 ### Plot data
 
